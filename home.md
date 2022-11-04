@@ -15,7 +15,5 @@ title: "Lukas Delgado-Prieto"
 
 - I am visiting the Economics Department at UC Berkeley in the Fall-2022!
 - I am the co-organizer of the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
-- You can download here a copy of my [CV](https://github.com/ludelgad/ludelgad.github.io/files/Delgado_CV.pdf)
+- You can download here a copy of my [CV](https://github.com/ludelgad/ludelgad.github.io/files/9940424/Delgado_CV.pdf)
 - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
-
-
