@@ -20,3 +20,5 @@ layout: page
 ## Work in progress
 
 - Production Organization and Labor Market Concentration (joint with Álvaro Jáñez)
+
+[Google Scholar](https://scholar.google.com/citations?user=lHWQcrEAAAAJ)
