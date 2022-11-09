@@ -7,7 +7,7 @@ title: "Lukas Delgado-Prieto"
 
 ### Hello, welcome to my personal webpage! 
 
- <img align="right" width="220" height="260" style="right; padding-left:10px" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png"/> <!--- The padding-left is the one that gives the margin with the text -->
+ <img align="right" width="210" height="255" style="right; padding-left:10px" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png"/> <!--- The padding-left is the one that gives the margin with the text -->
 
  
 <p align="left" > 
