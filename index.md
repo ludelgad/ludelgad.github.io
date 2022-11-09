@@ -5,7 +5,8 @@ title: "Lukas Delgado-Prieto"
 
 ### Hello, welcome to my personal webpage! 
 
- <img align="left" width="260" height="330" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png">  
+ <img align="right" width="260" height="330" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png">  
+ 
 
 #### [Ph.D. Candidate in Economics, UC3M](http://economics.uc3m.es/personal/delgado-prieto/)
 
