@@ -12,7 +12,7 @@ title: "Lukas Delgado-Prieto"
 
 <p align="justify"> 
 I am a 5th-year Ph.D. student interested in labor economics and applied microeconomics, with a focus on questions related to migration, minimum wages and imperfect labor markets. I am also a pre-doc researcher at the Institute for Economic Analysis (IAE)-CSIC in Barcelona and a short-term consultant at the World Bank. I did my bachelor's and master's degree in Economics at Universidad de Los Andes in Colombia.
-<p>
+</p>
 
  - I am visiting the Economics Department at UC Berkeley in the Fall-2022!
  - I am the co-organizer of the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
