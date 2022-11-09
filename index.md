@@ -5,7 +5,7 @@ title: "Lukas Delgado-Prieto"
  
 #### [Ph.D. Candidate in Economics, UC3M](http://economics.uc3m.es/personal/delgado-prieto/)
 
- <img align="right" width="260" height="320" style="right; padding-left:20px" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png"/> <!--- The padding-left is the one that gives the margin with the text -->
+ <img align="right" width="230" height="280" style="right; padding-left:20px" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png"/> <!--- The padding-left is the one that gives the margin with the text -->
 
 ### Hello, welcome to my personal webpage! 
 
