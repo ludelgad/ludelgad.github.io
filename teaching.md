@@ -18,7 +18,6 @@ TEACHING ASSISTANT:
 - Prof. Juanjo Dolado and Prof. Luigi Minale
 
 
-
 4. Urban and Regional Economics (In English), Autumn 2020*
 - Prof. Adelheid Holl
 
