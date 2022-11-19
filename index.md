@@ -19,4 +19,5 @@ I am also a pre-doc researcher at the Institute for Economic Analysis (IAE)-CSIC
 
  - I am visiting the Economics Department at UC Berkeley in the Fall-2022!
  - I am the co-organizer of the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
+   - We are currently reviewing papers for next term. Submission email: [junioreconmig@gmail.com](mailto:junioreconmig@gmail.com)   
  - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
