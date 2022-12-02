@@ -19,6 +19,6 @@ layout: page
 
 ## Work in progress
 
-- Inequality, Production Organization and Labor Market Concentration (joint with Álvaro Jáñez)
+- Inequality, Production Organization and Labor Market Concentration (with Álvaro Jáñez)
 
 [Google Scholar](https://scholar.google.com/citations?user=lHWQcrEAAAAJ)
