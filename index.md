@@ -16,5 +16,4 @@ I am a 5th-year Ph.D. student at UC3M broadly interested in labor economics and 
 
  - I am also a researcher at the Institute for Economic Analysis (IAE)-CSIC in Barcelona and a short-term consultant at the World Bank
  - I co-organize the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
-   - We are currently reviewing papers for next term, submission email is: [junioreconmig@gmail.com](mailto:junioreconmig@gmail.com)   
  - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
