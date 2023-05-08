@@ -20,6 +20,6 @@ layout: page
 ## Work in progress
 
 - Monopsony Power and Firm Organization (with [Álvaro Jáñez](https://economics.uc3m.es/personal/janez/))
-- The Impact of Hard Discount Stores on Local Labor Markets: Evidence from Colombia (with [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))
+- The Impact of Hard Discount Stores on Local Labor Markets: Evidence from Colombia (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))
 
 [Google Scholar](https://scholar.google.com/citations?user=lHWQcrEAAAAJ)
