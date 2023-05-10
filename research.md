@@ -23,3 +23,6 @@ layout: page
 - The Impact of Hard Discount Stores on Local Labor Markets: Evidence from Colombia (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))
 
 [Google Scholar](https://scholar.google.com/citations?user=lHWQcrEAAAAJ)
+
+### Policy Work
+- World Bank Report of the EU. Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion.
