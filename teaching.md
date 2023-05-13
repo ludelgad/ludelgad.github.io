@@ -4,7 +4,7 @@ permalink: "/teaching/"
 layout: page
 ---
 
-TEACHING ASSISTANT:
+Teaching Assistant:
 
 1. Government Policy Evaluation (In English), Fall 2020, Fall 2021* and Fall 2022*
 - Prof. Jan Stuhler and Prof. Jesús Carro
@@ -24,7 +24,7 @@ TEACHING ASSISTANT:
 
 ##### ***Excellence of teaching award**
 
-MAIN INSTRUCTOR:
+Main Instructor:
 
 5. Introduction to Stata (In English) for MADE-MEDEG, Autumn 2020, Autumn 2021 and Autumn 2022
     - [Teaching Materials](https://sites.google.com/view/introtostata/teaching)
