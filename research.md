@@ -25,4 +25,4 @@ layout: page
 [Google Scholar](https://scholar.google.com/citations?user=lHWQcrEAAAAJ)
 
 ### Policy reports
-- World Bank Report of the EU. Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023).
+- World Bank Report of the EU. [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf).
