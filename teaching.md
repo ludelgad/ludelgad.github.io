@@ -6,19 +6,19 @@ layout: page
 
 Teaching Assistant:
 
-1. Government Policy Evaluation (In English), Fall 2020, Fall 2021* and Fall 2022*
+1. Government Policy Evaluation (English), Spring 2020, Spring 2021* and Spring 2022*
 - Prof. Jan Stuhler and Prof. Jesús Carro
 
 
-2. Applied Economics (In English and Spanish), Fall 2020* and Fall 2021*
+2. Applied Economics (English and Spanish), Spring 2020* and Spring 2021*
 - Prof. Raquel Carrasco and Prof. Julio Caceres
 
 
-3. Labor Economics (In Spanish and English), Autumn 2019* , Autumn 2020* and Autumn 2021*
+3. Labor Economics (English and Spanish), Fall 2019* , Fall 2020* and Fall 2021*
 - Prof. Juanjo Dolado and Prof. Luigi Minale
 
 
-4. Urban and Regional Economics (In English), Autumn 2020*
+4. Urban and Regional Economics (English), Fall 2020*
 - Prof. Adelheid Holl
 
 
@@ -26,5 +26,7 @@ Teaching Assistant:
 
 Main Instructor:
 
-5. Introduction to Stata (In English) for MADE-MEDEG, Autumn 2020, Autumn 2021 and Autumn 2022
+5. Introduction to Stata (English) for MADE-MEDEG UC3M, Fall 2020, Fall 2021, Fall 2022 and Fall 2023
     - [Teaching Materials](https://sites.google.com/view/introtostata/teaching)
+
+6. Data Analytics, Stata module (English) for ESCP Business School, Fall 2023
