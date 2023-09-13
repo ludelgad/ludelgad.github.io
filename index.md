@@ -11,7 +11,7 @@ title: "Lukas Delgado-Prieto"
  
 <p align="left" > 
 I am a Ph.D. candidate at Universidad Carlos III de Madrid. I will be on the <strong> 2023-2024 Economics Job Market </strong> and available for interviews at the EEA 2023 and ASSA 2024 meetings. 
-</p> Check my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and my [JMP](https://ludelgad.github.io/files/JMP_Delgado.pdf).
+</p> Here is my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and my [JMP](https://ludelgad.github.io/files/JMP_Delgado.pdf).
 
 <p align="left" >  
 I am broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, monopsony power, and local labor markets. I visited the Economics Department at UC Berkeley in the Fall of 2022.
