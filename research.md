@@ -6,7 +6,7 @@ layout: page
 
 ## Job Market Paper
 
-- [Immigration and Worker Responses Across Firms: Evidence from Administrative Records in Colombia]()
+- [Immigration and Worker Responses Across Firms: Evidence from Administrative Records in Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf)
   <details><summary>Abstract</summary> <p> 
   This paper studies the worker-level effects of a labor supply shock and the role of firms in these effects. To do so, I exploit the mass arrival of migrants from Venezuela in Colombia and use administrative employer-employee data covering the universe of formal workers to follow natives' labor market outcomes over time. First, I find a reduction in employment concentrated at the bottom of the wage distribution (among self-employed and minimum-wage earners) and in low-paying firms. Besides, I find a negative wage effect driven by workers from the upper part of the wage distribution who work in small firms. Consistent with this, I construct a model of heterogeneous firms to show that employment and wage effects vary depending on the type of firm the worker is employed. Next, I identify the subgroups most affected by immigration by implementing a machine learning method. This method shows that firm-specific pay premiums are more important in explaining the negative effect on employment and wages than other worker characteristics. Overall, these results suggest that firms play an influential role in determining the impact of immigration on workers' outcomes.
   </p></details>
