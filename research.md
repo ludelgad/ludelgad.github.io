@@ -27,6 +27,9 @@ layout: page
 ## Work in progress
 
 - The Impact of Hard Discount Stores on Local Labor Markets: Evidence from Colombia (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))
+<details><summary>Abstract</summary><p> 
+Hard discount stores have disrupted the traditional retail sector around the globe by offering a limited assortment of low-priced products. There is no understanding of how this affects the overall labor market. To fill this gap, this paper studies the impact of these stores on local labor markets in Colombia. We exploit the staggered expansion of hard discount chains across the country and combine it with administrative records and survey data to analyze the evolution of employment and wages in the formal and informal labor markets following the opening of new stores. Our findings show that the entry of hard discounters increases local formal employment, particularly in the primary and secondary sectors. The higher demand for inputs of the goods sold by the hard discounters is the most consistent explanation for the increase in employment in these sectors. Regarding the informal sector, the increased competition among retailers does not translate into a reduction of informal retail employment. These findings have important implications for policymakers and local businesses in developing countries.
+</p> </details>
 
-### Policy reports for the World Bank
+## Policy reports
 - World Bank Report of the EU. [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf).
