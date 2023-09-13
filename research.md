@@ -19,7 +19,7 @@ layout: page
   
   - Listed in *UC3M working paper series*, *SocArxiv* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)*
  
-  - Monopsony Power and Firm Organization (with [Álvaro Jáñez](https://economics.uc3m.es/personal/janez/))
+- Monopsony Power and Firm Organization (with [Álvaro Jáñez](https://economics.uc3m.es/personal/janez/))
     <details><summary>Abstract</summary><p> 
     Twice as many firms compete for production workers in Portuguese local labor markets than for managers. This paper studies the welfare effects of monopsony power and minimum wages in a general equilibrium model where firms organize production in hierarchies. Using administrative data, we find that monopsony power reduces production workers' and managers' welfare by 5.7% and 23.1%. Ignoring that monopsony power incentivizes managerial delegation overestimates these losses by 0.6 and 2.1 pp. Recent statutory rises in the minimum wage lower overall welfare and affect managers through worker reallocation and delegation decisions. Moving to an optimal occupation-based minimum wage leads to welfare gains of nearly 0.2% for both occupations.
   </p> </details>
