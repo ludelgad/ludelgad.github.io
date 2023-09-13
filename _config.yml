@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ludelgad@eco.uc3m.es"}
   - {title: Github, icon: github, url: "https://github.com/ludelgad"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/LaDelgadoP"}
+  - {title: Google Scholar, icon: paper-plane , URL: "https://scholar.google.com/citations?user=lHWQcrEAAAAJ"}
 
 
 comments:
