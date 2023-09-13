@@ -10,7 +10,7 @@ title: "Lukas Delgado-Prieto"
  <img align="right" width="210" height="255" style="right; padding-left:10px" src="https://user-images.githubusercontent.com/57502134/186741596-b93baccb-0009-4910-8db5-26d27765dc15.png"> <!--- The padding-left is the one that gives the margin with the text -->
  
 <p align="left" > 
-I am a Ph.D. candidate at Universidad Carlos III de Madrid. I will be on the <strong> 2023-2024 Economics Job Market </strong> and available for interviews at the EEA 2023 and ASSA 2024 meetings. Check my CV [here](<embed src="https://ludelgad.github.io/files/JMP_Delgado.pdf" width="100%" height="850px"/>) and my JMP here.
+I am a Ph.D. candidate at Universidad Carlos III de Madrid. I will be on the <strong> 2023-2024 Economics Job Market </strong> and available for interviews at the EEA 2023 and ASSA 2024 meetings. Check my CV embed src="https://ludelgad.github.io/files/JMP_Delgado.pdf" width="100%" height="850px" and my JMP here.
 </p>
 
 <p align="left" >  
