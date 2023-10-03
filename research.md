@@ -19,9 +19,9 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
   
   - Listed in *UC3M working paper series*, *SocArxiv* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)*
  
-- [Monopsony Power and Firm Organization](https://ajanez.github.io/files/JMP_Firm_Org.pdf) (with [Álvaro Jáñez](https://ajanez.github.io/)
+- [Monopsony Power and Firm Organization](https://ajanez.github.io/files/JMP_Firm_Org.pdf) (with [Álvaro Jáñez](https://ajanez.github.io/))
     <details><summary>Abstract</summary><p> 
-    Labor market competition for managers and production workers drastically differs in Portugal. Using administrative data together with a general equilibrium model where firms organize production in hierarchies, we show that the heterogeneity in monopsony power leads to a welfare loss of 5.7\% for production workers and 23.1\% for managers. Managers experience greater losses because often work in markets with fewer competing firms, are less mobile, and have less exposure to minimum wages. This affects the optimal design of minimum wages to alleviate monopsony power. Recent statutory raises in the minimum wage lower overall welfare. Moving to an optimal occupation-based minimum wage generates a welfare gain of 0.2\% for both occupations.
+    Labor market competition for managers and production workers drastically differs in Portugal. Using administrative data together with a general equilibrium model where firms organize production in hierarchies, we show that the heterogeneity in monopsony power leads to a welfare loss of 5.7% for production workers and 23.1% for managers. Managers experience greater losses because often work in markets with fewer competing firms, are less mobile, and have less exposure to minimum wages. This affects the optimal design of minimum wages to alleviate monopsony power. Recent statutory raises in the minimum wage lower overall welfare. Moving to an optimal occupation-based minimum wage generates a welfare gain of 0.2% for both occupations.
   </p> </details>
 
 ## Work in progress
