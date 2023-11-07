@@ -32,6 +32,8 @@ Hard discount stores have disrupted traditional retail worldwide by selling low-
 ## Work in progress
 
 - Labor Market Impacts of Immigration in Turkey and Colombia: Reconciling Different Results (with Tyler Brown, [Murat Kirdar](https://muratguraykirdar.weebly.com/) & [Jan Stuhler](https://janstuhler.com/))
+  
+- Labor Market Assimilation of Migrants under Mass Regularization
 
 ## Policy reports
 - World Bank Report of the EU. [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf).
