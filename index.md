@@ -18,5 +18,5 @@ I am broadly interested in labor economics and applied microeconomics. My curren
 </p>
 
  - I am also a researcher at the Institute for Economic Analysis (IAE)-CSIC and a Short-Term Consultant at the World Bank
- - I co-organize the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
+ - I co-organized the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
  - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
