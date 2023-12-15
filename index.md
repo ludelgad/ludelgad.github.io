@@ -17,7 +17,7 @@ I am a Ph.D. candidate at Universidad Carlos III on the <strong> 2023-2024 Econo
 I am broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, labor market power, and local labor market shocks. I visited the Economics Department at UC Berkeley in the Fall of 2022.
 </p>
 
- - I have been awarded the 1st **Best Young Immigration Economist** Prize by the committee of the 13th OECD Immigration Conference
+ - I have been awarded the **Best Immigration Economics Paper** for my JMP by the committee of the 13th OECD Immigration Conference
  - I am also a researcher at the Institute for Economic Analysis (IAE)-CSIC and a Short-Term Consultant at the World Bank
  - I co-organized the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
  - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
