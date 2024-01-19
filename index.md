@@ -14,7 +14,7 @@ I am a Ph.D. candidate at Universidad Carlos III on the <strong> 2023-2024 Econo
 </p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and my [JMP](https://ludelgad.github.io/files/JMP_Delgado.pdf).
 
 <p align="left" >  
-I am broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, labor market power, and local labor market shocks. I visited the Economics Department at UC Berkeley in the Fall of 2022.
+I am broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, monopsony power, and local labor market shocks. I visited the Economics Department at UC Berkeley in the Fall of 2022.
 </p>
 
  - I have been awarded the **Best Immigration Economics Paper** for my JMP by the committee of the 13th OECD Immigration Conference
