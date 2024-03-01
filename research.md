@@ -39,4 +39,6 @@ Hard discount stores have disrupted the traditional retail sector by selling low
 - Labor Market Assimilation of Migrants under Mass Regularization
 
 ## Policy reports
-- World Bank Report of the EU. [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf).
+- World Bank Report of the EU. \
+Part 1: [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf). \
+Part 2: [Energizing Europe--Rising to the Challenge (2023)](https://openknowledge.worldbank.org/server/api/core/bitstreams/fb00fa8a-9cfd-4b3e-87a4-c206dd244571/content).
