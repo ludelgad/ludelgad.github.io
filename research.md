@@ -16,7 +16,7 @@ Many migrants have recently moved to developing countries where the informal sec
 ## Working papers
 - [Immigration, Wages, and Employment under Informal Labor Markets](https://e-archivo.uc3m.es/handle/10016/35664)\
 Listed in *UC3M working paper series*, *SocArxiv* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
-***Revise & Resubmit at Journal of Population Economics***
+***Revised & Resubmitted at Journal of Population Economics***
   <details><summary>Abstract</summary><p> 
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
   </p> </details>
