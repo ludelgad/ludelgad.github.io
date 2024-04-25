@@ -37,7 +37,7 @@ but little is known about its impact on the labor market. To fill this gap in th
 
 ## Work in progress
   
-- Labor Market Assimilation of Migrants under Mass Regularization
+- Firms, Regularization, and the Labor Market Integration of Migrants in Colombia
 
 ## Policy reports
 - World Bank Report of the EU. \
