@@ -28,6 +28,7 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
   </p> </details>
 
 - [The Impact of Hard Discount Stores on Local Labor Markets: Evidence from Colombia](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))
+  Listed in Banco de la República-DTSERU 
   <details><summary>Abstract</summary><p> 
 Hard discount stores (HDS) have changed the dynamics of the traditional retail sector by selling a basket
 of products at very low prices. This business model has gained significant market shares in many countries,
