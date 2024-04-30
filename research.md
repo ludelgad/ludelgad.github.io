@@ -4,22 +4,22 @@ permalink: "/research/"
 layout: page
 ---
 
-## Job Market Paper
+## Publications
 
-- [Immigration and Worker Responses Across Firms: Evidence from Administrative Records in Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
-  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) \
-  _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_
-  <details><summary>Abstract</summary> <p> 
-Many migrants have recently moved to developing countries where the informal sector is large and small firms are prevalent in the labor market. The interaction between firms, workers, and immigration shocks in these contexts is mainly unknown. To address this, I exploit the mass arrival of migrants from Venezuela in Colombia and use administrative records covering the universe of formal workers and firms. As immigrants concentrate in the informal sector, formal employment for natives earning the minimum wage declines, reflecting their high substitutability with informal workers who become less costly. Across firms, the negative formal employment and wage effects are concentrated in small firms. To rationalize this, I construct a model of heterogeneous firms that hire formal and informal labor to show that small firms' responses are more pronounced as they hire relatively more informal labor. Finally, using causal forests, I show that the heterogeneity of employment and wage effects is explained more by firm characteristics rather than worker characteristics. These results suggest that firms are important for understanding the impact of immigration on native workers and the labor market overall.
-  </p></details>
-
-## Working papers
 - [Immigration, Wages, and Employment under Informal Labor Markets](https://ludelgad.github.io/files/Revised_LADP.pdf)\
 Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArxiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
 ***Conditionally Accepted at the Journal of Population Economics***
   <details><summary>Abstract</summary><p> 
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
   </p> </details>
+
+## Working papers
+- [Immigration and Worker Responses Across Firms: Evidence from Administrative Records in Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
+  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) \
+  _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_
+  <details><summary>Abstract</summary> <p> 
+Many migrants have recently moved to developing countries where the informal sector is large and small firms are prevalent in the labor market. The interaction between firms, workers, and immigration shocks in these contexts is mainly unknown. To address this, I exploit the mass arrival of migrants from Venezuela in Colombia and use administrative records covering the universe of formal workers and firms. As immigrants concentrate in the informal sector, formal employment for natives earning the minimum wage declines, reflecting their high substitutability with informal workers who become less costly. Across firms, the negative formal employment and wage effects are concentrated in small firms. To rationalize this, I construct a model of heterogeneous firms that hire formal and informal labor to show that small firms' responses are more pronounced as they hire relatively more informal labor. Finally, using causal forests, I show that the heterogeneity of employment and wage effects is explained more by firm characteristics rather than worker characteristics. These results suggest that firms are important for understanding the impact of immigration on native workers and the labor market overall.
+  </p></details>
    
 - [Monopsony Power and Firm Organization](https://ajanez.github.io/files/JMP_Firm_Org.pdf) (with [Álvaro Jáñez](https://ajanez.github.io/)) \
    _Alvaro's JMP_
