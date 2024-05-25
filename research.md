@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-- [Immigration, Wages, and Employment under Informal Labor Markets](https://ludelgad.github.io/files/Revised_LADP.pdf)\
+- [Immigration, Wages, and Employment under Informal Labor Markets](https://ludelgad.github.io/files/JOPE_2024_Immigration.pdf)\
 Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArxiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
 ***Journal of Population Economics*** (2024) 37:55
   <details><summary>Abstract</summary><p> 
