@@ -10,7 +10,7 @@ title: "Lukas Delgado-Prieto"
  <img align="right" width="210" height="270" style="right; padding-left:10px" src="https://ludelgad.github.io/files/Lukas_Webpage.jpeg"> <!--- The padding-left is the one that gives the margin with the text -->
  
 <p align="left" > 
-I am a Ph.D. candidate at Universidad Carlos III. I will join the Department of Economics at the University of Oslo as a Postdoctoral Fellow from August 2024.
+I hold a PhD in Economics from Universidad Carlos III. I will join the Department of Economics at the University of Oslo as a Postdoctoral Fellow.
 </p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and my [JMP](https://ludelgad.github.io/files/JMP_Delgado.pdf).
 
 <p align="left" >  
