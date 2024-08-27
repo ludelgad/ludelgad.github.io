@@ -3,7 +3,7 @@ layout: page
 title: "Lukas Delgado-Prieto"
 ---
  
-#### [Ph.D. Candidate in Economics, UC3M](http://economics.uc3m.es/personal/delgado-prieto/)
+#### Ph.D. in Economics, UC3M
 
 ### Hello, welcome to my webpage! 
 
@@ -11,7 +11,7 @@ title: "Lukas Delgado-Prieto"
  
 <p align="left" > 
 I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo. I hold a PhD in Economics from Universidad Carlos III. 
-</p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and my [JMP](https://ludelgad.github.io/files/JMP_Delgado.pdf).
+</p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf).
 
 <p align="left" >  
 I am broadly interested in labor economics and applied microeconomics. My current research projects focus on questions related to immigration, minimum wages, monopsony power, and local labor market shocks. I visited the Economics Department at UC Berkeley during my PhD.
