@@ -20,4 +20,4 @@ I am broadly interested in labor economics and applied microeconomics. My curren
  - I have been awarded the **Best Immigration Economics Paper** for my JMP by the committee of the 13th OECD Immigration Conference
  - I am also a Short-Term Consultant at the World Bank
  - I co-organized the [Junior Economics of Migration Seminar](https://sites.google.com/view/the-economics-of-migration)
- - Contact: [ludelgad@eco.uc3m.es](mailto:ludelgad@eco.uc3m.es)
+ - Contact: [laprieto@econ.uio.no](mailto:laprieto@econ.uio.no)
