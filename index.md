@@ -14,7 +14,7 @@ I am a Postdoctoral Fellow in the Department of Economics at the University of O
 </p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf).
 
 <p align="left" >  
-I am broadly interested in labor and applied microeconomics. My current research centers on immigration, minimum wages, monopsony power, and the impact of local labor market shocks on workers and firms.
+I am broadly interested in labor economics and applied microeconomics. My current research centers on immigration, minimum wages, monopsony power, and the impact of local labor market shocks on workers and firms.
 </p>
 
  - I have been awarded the **Best Immigration Economics Paper** for my JMP by the committee of the 13th OECD Immigration Conference
