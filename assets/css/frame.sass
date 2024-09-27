@@ -8,6 +8,7 @@ $background: #FFFFFF  // Clean white background
 $light-gray: #F5F5F5  // Light gray for subtle contrast
 $dark: #2D2D2D        // Dark color for text and other elements
 $accent: #EAEAEA      // Very light gray for accents
+$light-blue: #ADD8E6  // Light blue color for hyperlinks
 
 // Global Styles
 html
@@ -15,7 +16,7 @@ html
   padding: 0 calc(38% - 22em)
   font-family: "Helvetica Neue", sans-serif
   line-height: 1.6
-  color: $dark                          // Dark text for readability
+  color: $dark                          // Ensure dark text for readability
 
 body
   box-shadow: 0 0 .3em rgba($dark, 0.1)  // Subtle shadow around the body content
@@ -47,14 +48,14 @@ body > header, body > footer
 
 // Links and Buttons Styling
 a
-  color: darken($dark, 20%)                // A dark shade for links
+  color: $light-blue                        // Set the link color to light blue
   &:hover
-    color: darken($dark, 40%)              // Darker shade on hover
-    text-decoration: none                   // Remove underline on hover for a clean look
+    color: darken($light-blue, 20%)        // Darker shade on hover for better visibility
+    text-decoration: underline               // Add underline on hover for a clear indication
 
 button, input[type="submit"]
   background-color: darken($light-gray, 10%) // Button background in a slightly darker gray
-  color: $dark
+  color: $dark                              // Ensure button text is dark
   padding: 0.5em 1.5em
   border-radius: 5px
   border: none
@@ -63,4 +64,3 @@ button, input[type="submit"]
   &:hover
     background-color: darken($light-gray, 15%) // Slightly darker on hover
     box-shadow: 0 0 .3em rgba($dark, 0.4)
-
