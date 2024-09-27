@@ -1,14 +1,14 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">
 <aside style="display: none">
   <nav>
+    <div class="sidebar">
+  <img class="profile-image" src="https://ludelgad.github.io/files/Lukas_Webpage.jpeg" alt="Lukas Delgado-Prieto">
+</div>
   {%- for item in site.navigation -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
-    <div class="sidebar"> /*Include the picture in the sidebar
-  <img align="left" width="210" height="270" style="padding-right:10px" src="https://ludelgad.github.io/files/Lukas_Webpage.jpeg" alt="Lukas Delgado-Prieto">
-</div>
     <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
       <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use></svg>
       <span aria-hidden="true">{{ title }}</span>
