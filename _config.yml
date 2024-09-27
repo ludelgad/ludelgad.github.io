@@ -14,7 +14,7 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:                # accepts {file, title, url, icon, sidebaricon} #the picture is in sidebar.html
   - {file: "index.md", title: "Home"}
   - {file: "research.md" , title: "Research"}
   - {url: "/files/Delgado_CV.pdf", title: "CV"}
