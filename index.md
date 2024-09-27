@@ -6,8 +6,6 @@ title: "Lukas Delgado-Prieto"
 #### Ph.D. in Economics, UC3M
 
 ### Hello, welcome to my webpage! 
-
- <img align="right" width="210" height="270" style="right; padding-left:10px" src="https://ludelgad.github.io/files/Lukas_Webpage.jpeg"> <!--- The padding-left is the one that gives the margin with the text -->
  
 <p align="left" > 
 I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo. I hold a PhD in Economics from Universidad Carlos III. I visited the Economics Department at UC Berkeley during my PhD.
