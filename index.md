@@ -18,4 +18,5 @@ I am broadly interested in labor economics and applied microeconomics. My curren
 </p>
 
  - I have been awarded the **Best Immigration Economics Paper** for my JMP by the committee of the 13th OECD Immigration Conference
+ - Member of [LinkEED 2.0](https://www.oecd.org/en/about/projects/linkeed-200.html)
  - Contact: [laprieto@econ.uio.no](mailto:laprieto@econ.uio.no)
