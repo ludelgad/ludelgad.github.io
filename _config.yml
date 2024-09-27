@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:laprieto@econ.uio.no"}
   - {title: Github, icon: github, url: "https://github.com/ludelgad"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/LaDelgadoP"}
-  - {title: Google Scholar, icon: "google-scholar", url: "https://scholar.google.com/citations?user=lHWQcrEAAAAJ"}
+  - {title: Google Scholar, icon: paperclip, url: "https://scholar.google.com/citations?user=lHWQcrEAAAAJ"}
 
 
 comments:
