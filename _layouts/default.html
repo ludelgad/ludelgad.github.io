@@ -37,7 +37,11 @@
 {% if site.external %}
 <footer>
   <div>{{ site.description | default: site.title }}</div>
-  {% include menu.html menu=site.external %}
+  <ul>
+    {% for item in site.external %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
 </footer>
 {% endif %}
 
