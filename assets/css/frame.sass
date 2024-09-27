@@ -16,18 +16,22 @@ html
   padding: 0 calc(38% - 22em)
   font-family: "Helvetica Neue", sans-serif
   line-height: 1.6
-  color: $dark                          // Ensure dark text for readability
 
 body
+  color: $dark                          // Set body text color to dark for readability
   box-shadow: 0 0 .3em rgba($dark, 0.1)  // Subtle shadow around the body content
   background-color: $light-gray          // Slightly darker gray for the body content
 
 // Header and Footer
 body > header, body > footer
   background: $accent                     // Very light gray for contrast in header and footer
-  color: $dark                            // Dark text for contrast
+  color: $dark                            // Set header/footer text color to dark
   padding: 1.5em                          // Add padding for breathing space
   border-radius: 10px                     // Slight rounding of corners for a softer look
+
+// Specific styling for headers in the header/footer
+body > header h1, body > header h2, body > footer h1, body > footer h2
+  color: $dark                            // Ensure header/footer headings are dark
 
 // Article & Content Padding (for larger screens)
 @media (min-width: 32em)
@@ -42,9 +46,9 @@ body > header, body > footer
   background: $background                  // Scrollbar track matching the background
 
 ::-webkit-scrollbar-thumb
-  background-color: lighten($dark, 30%)   // Lighter color for scrollbar thumb
+  background-color: $background            // Set scrollbar thumb color to match the background
   border-radius: 10px
-  border: 3px solid $background            // Padding between thumb and track
+  border: 3px solid $background             // Padding between thumb and track
 
 // Links and Buttons Styling
 a
