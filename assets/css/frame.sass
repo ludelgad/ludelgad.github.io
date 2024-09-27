@@ -3,69 +3,64 @@
 
 @import index, font, basic, layout, classes
 
-// Define new color variables with less yellow
-$nude: #EED4C4        // A softer nude color, less yellow
-$nude-light: #F5E3D2  // Lighter nude for accents, more towards white
+// Define new color variables with a white theme
+$background: #FFFFFF  // Clean white background
+$light-gray: #F5F5F5  // Light gray for subtle contrast
 $dark: #2D2D2D        // Dark color for text and other elements
-$light: #FFFFFF       // Light color for text
+$accent: #EAEAEA      // Very light gray for accents
 
 // Global Styles
 html
-  background: $nude
+  background: $background
   padding: 0 calc(38% - 22em)
   font-family: "Helvetica Neue", sans-serif
   line-height: 1.6
-  color: darken($dark, 30%)   // Ensure dark text on a light background
+  color: $dark                          // Dark text for readability
 
 body
-  box-shadow: 0 0 .3em lighten($dark, 65%)  // Subtle shadow around the body content
-  background-color: $nude-light            // Slightly lighter nude for the body content
+  box-shadow: 0 0 .3em rgba($dark, 0.1)  // Subtle shadow around the body content
+  background-color: $light-gray          // Slightly darker gray for the body content
 
 // Header and Footer
 body > header, body > footer
-  background: darken($nude, 10%)           // Darker nude for contrast in header and footer
-  color: $dark                             // Use dark text for contrast
-  padding: 1.5em                           // Add padding for breathing space
-  border-radius: 10px                      // Slight rounding of corners for a softer look
+  background: $accent                     // Very light gray for contrast in header and footer
+  color: $dark                            // Dark text for contrast
+  padding: 1.5em                          // Add padding for breathing space
+  border-radius: 10px                     // Slight rounding of corners for a softer look
 
 // Article & Content Padding (for larger screens)
 @media (min-width: 32em)
   body > header, body > article, body > footer
     padding: 2em calc(22% - 6em)
 
-// Disable Dark Mode Completely (Force Light Theme)
-@media (prefers-color-scheme: dark)
-  html, body, body > header, body > footer
-    background: $nude                      // Force nude background, no dark mode
-    color: $dark                           // Keep dark text for readability
-
 // Scrollbar Styling
 ::-webkit-scrollbar
   width: 12px
 
 ::-webkit-scrollbar-track
-  background: $nude                        // Scrollbar track matching the nude background
+  background: $background                  // Scrollbar track matching the background
 
 ::-webkit-scrollbar-thumb
-  background-color: darken($nude, 20%)     // Darker nude for scrollbar thumb
+  background-color: lighten($dark, 30%)   // Lighter color for scrollbar thumb
   border-radius: 10px
-  border: 3px solid $nude                  // Padding between thumb and track
+  border: 3px solid $background            // Padding between thumb and track
 
 // Links and Buttons Styling
 a
-  color: darken($nude, 20%)                // A dark nude for links
+  color: darken($dark, 20%)                // A dark shade for links
   &:hover
-    color: darken($nude, 40%)              // Darker nude on hover
-    text-decoration: none                  // Remove underline on hover for a clean look
+    color: darken($dark, 40%)              // Darker shade on hover
+    text-decoration: none                   // Remove underline on hover for a clean look
 
 button, input[type="submit"]
-  background-color: darken($nude, 20%)     // Button background in dark nude
-  color: $light
+  background-color: darken($light-gray, 10%) // Button background in a slightly darker gray
+  color: $dark
   padding: 0.5em 1.5em
   border-radius: 5px
   border: none
-  box-shadow: 0 0 .2em rgba($dark, 0.3)    // Subtle shadow for buttons
+  box-shadow: 0 0 .2em rgba($dark, 0.3)     // Subtle shadow for buttons
   cursor: pointer
   &:hover
-    background-color: darken($nude, 30%)   // Slightly darker on hover
+    background-color: darken($light-gray, 15%) // Slightly darker on hover
     box-shadow: 0 0 .3em rgba($dark, 0.4)
+
