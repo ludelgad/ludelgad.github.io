@@ -3,8 +3,6 @@ layout: page
 title: "Lukas Delgado-Prieto"
 ---
  
-#### Ph.D. in Economics, UC3M
-
 ### Hello, welcome to my webpage! 
  
 <p align="left" > 
