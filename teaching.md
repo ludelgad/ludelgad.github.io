@@ -4,7 +4,7 @@ permalink: "/teaching/"
 layout: page
 ---
 
-Teaching Assistant at UC3M:
+**Teaching Assistant at UC3M:**
 
 1. Government Policy Evaluation (English), Spring 2020, Spring 2021* and Spring 2022*
 - Prof. Jan Stuhler and Prof. Jesús Carro
@@ -24,7 +24,7 @@ Teaching Assistant at UC3M:
 
 ##### ***Excellence of teaching award**
 
-Main Instructor:
+**Main Instructor:**
 
 5. Introduction to Stata (English) for MADE-MEDEG UC3M, Fall 2020, Fall 2021, Fall 2022 and Fall 2023
     - [Teaching Materials](https://sites.google.com/view/introtostata/teaching)
