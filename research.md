@@ -35,8 +35,8 @@ Hard discount stores have reshaped the retail sector by selling low-cost product
 ## Work in progress
   
 - Firms, Regularization, and the Labor Market Integration of Migrants
-- Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan Miguel Jiménez)
-  \ _Daniel's JMP_
+- Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan Miguel Jiménez) \
+   _Daniel's JMP_
 
 ## Policy reports
 - World Bank Report of the EU. \
