@@ -6,7 +6,7 @@ title: "Lukas Delgado-Prieto"
 ### Hello, welcome to my webpage! 
  
 <p align="left" > 
-I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo. I hold a PhD in Economics from Universidad Carlos III, during which I had the opportunity to visit the Economics Department at UC Berkeley.
+I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo. I hold a PhD in Economics from Universidad Carlos III. I visited the Economics Department at UC Berkeley during 2022.
 </p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf).
 
 <p align="left" >  
