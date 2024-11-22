@@ -4,14 +4,6 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publications
-- [Immigration, Wages, and Employment under Informal Labor Markets](https://doi.org/10.1007/s00148-024-01028-5)\
-Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArxiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
-***Journal of Population Economics*** (2024) Vol 37, Art 55.
-  <details><summary>Abstract</summary><p> 
-This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
-  </p> </details>
-
 ## Working papers
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
@@ -32,12 +24,20 @@ Millions of migrants have recently relocated to developing countries where the i
 Hard discount stores have reshaped the retail sector by selling low-cost products. While this business model has gained market shares in many countries, how it affects the labor market is unclear. To fill this gap, we study the impact of discount stores on local labor markets in Colombia,  where these stores had a rapid, staggered geographic expansion. Our results show that discount stores boost local formal employment, especially in retail, manufacturing, and agriculture, suggesting significant spillover effects from retail to other sectors. Consistent with this finding, we also document increases in local tax revenues from manufacturing and commerce activities.
   </p> </details>
 
+## Publications
+- [Immigration, Wages, and Employment under Informal Labor Markets](https://doi.org/10.1007/s00148-024-01028-5)\
+Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArxiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
+***Journal of Population Economics*** (2024) Vol 37, Art 55.
+  <details><summary>Abstract</summary><p> 
+This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
+  </p> </details>
+  
 ## Work in progress
   
 - Firms, Regularization, and the Labor Market Integration of Migrants
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez) \
-   _Daniel's JMP_
-
+   _Daniel's JMP_  
+  
 ## Policy reports
 - World Bank Report of the EU. \
 Part 1: [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf). \
