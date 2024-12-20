@@ -13,5 +13,5 @@ I am a Postdoctoral Fellow in the Department of Economics at the University of O
 I am broadly interested in labor economics and applied microeconomics. My current research focuses on immigration, minimum wages, monopsony power, and the adjustments to local labor market shocks.
 </p>
 
- - Member of [LinkEED-OECD](https://www.oecd.org/en/about/projects/linkeed-200.html).
+ - Member of [LinkEED-OECD](https://www.oecd.org/en/about/projects/linkeed-200.html) and Consultant for the World Bank.
  - Contact: [laprieto@econ.uio.no](mailto:laprieto@econ.uio.no)
