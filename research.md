@@ -40,6 +40,6 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
   
 ## Policy reports
 - World Bank Reports. \
-[A Path to Inclusive Growth in the EU amid Inflation and Fiscal Constraints (2024)](https://documents1.worldbank.org/curated/en/099121724035078520/pdf/P50045917da9dd0e5188d31194d03f6c875.pdf).\
-[Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion (2023)](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf). \
-[Energizing Europe--Rising to the Challenge (2023)](https://openknowledge.worldbank.org/server/api/core/bitstreams/fb00fa8a-9cfd-4b3e-87a4-c206dd244571/content).
+[A Path to Inclusive Growth in the EU amid Inflation and Fiscal Constraints](https://documents1.worldbank.org/curated/en/099121724035078520/pdf/P50045917da9dd0e5188d31194d03f6c875.pdf) (2024).\
+[Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf) (2023). \
+[Energizing Europe--Rising to the Challenge](https://openknowledge.worldbank.org/server/api/core/bitstreams/fb00fa8a-9cfd-4b3e-87a4-c206dd244571/content) (2023).
