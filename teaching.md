@@ -4,6 +4,11 @@ permalink: "/teaching/"
 layout: page
 ---
 
+**Teaching Assistant at UiO:**
+
+1. Strategic Competition (English), Spring 2025
+- Prof. Kristoffer Midttømme
+
 **Teaching Assistant at UC3M:**
 
 1. Government Policy Evaluation (English), Spring 2020, Spring 2021* and Spring 2022*
