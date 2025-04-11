@@ -36,7 +36,8 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
   
 - Firms, Regularization, and the Labor Market Integration of Migrants
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez) \
-   _Daniel's JMP_  
+   _Daniel's JMP_
+- Pitfalls of Common Estimators for Continuous Treatments (with [Jan Stuhler](https://janstuhler.com/))
   
 ## Policy reports
 - World Bank Reports. \
