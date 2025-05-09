@@ -24,6 +24,11 @@ The labor market effects of immigration on natives depend on how firms respond, 
 Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, how it impacts the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post discounters' entry, local formal employment increases by 10% on average, with spillovers from retail to manufacturing and construction. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
   </p> </details>
 
+- [Firms, Regularization, and the Labor Market Integration of Migrants](https://ludelgad.github.io/files/Assimilation_LADP.pdf)  
+  <details><summary>Abstract</summary><p> 
+This paper investigates the labor market integration of migrants in Colombia up to seven years post-arrival and throughout a large-scale regularization. Using matched employee-employer panel data for the universe of regularized migrants in the formal sector, along with household survey data covering the informal sector, I uncover substantial disparities. The most pronounced one is related to informality: migrants are nearly twice as likely to work informally than comparable natives. Despite regularization amnesties intended to promote formality, only 10\% of regularized migrants had formal jobs by 2021. Those entering the formal sector typically work in minimum-wage jobs and within small, low-paying firms, earning around half of the formal wages of natives. Close to 50\% of the overall formal wage gap between regularized migrants and natives is due to the differential migrant sorting into firms with lower pay policies. While there are some improvements as they gain formal sector experience, a persistent gap remains with natives across various job and firm characteristics. Finally, I discuss why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits. Regularized migrants have lower attachment to formal employment and higher firm mobility, which may reduce employers' incentives to hire them.
+  </p> </details>
+
 ## Publications
 - [Immigration, Wages, and Employment under Informal Labor Markets](https://doi.org/10.1007/s00148-024-01028-5)\
 Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArxiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
@@ -34,7 +39,6 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
   
 ## Work in progress
   
-- Firms, Regularization, and the Labor Market Integration of Migrants
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez) \
    _Daniel's JMP_
 - Pitfalls of Common Estimators for Continuous Treatments (with [Jan Stuhler](https://janstuhler.com/))
