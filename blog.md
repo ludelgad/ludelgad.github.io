@@ -16,9 +16,9 @@ layout: page
 
 - [Análisis de los programas sociales en Colombia: evidencia de encuestas a hogares](http://vox.lacea.org/?q=blog/programas_sociales_colombia) _VOX LACEA_ (2017)
 
-- Por una Colombia sin Pobreza: una estimación aproximada  _Revista Supuestos_ (2017)
+- Por una Colombia sin Pobreza: una estimación aproximada  / _Revista Supuestos_ (2017)
 
-- Empleo de los jóvenes: ¿Cómo está Colombia?_LatinAmerican Post_ (2016)
+- Empleo de los jóvenes: ¿Cómo está Colombia? / _LatinAmerican Post_ (2016)
 
 **Blog in Spanish**
 
