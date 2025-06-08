@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-## Working papers
+## Working Papers
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_
@@ -36,13 +36,13 @@ Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
   </p> </details>
   
-## Work in progress
+## Work in Progress
   
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez) \
    _Daniel's JMP_
 - Pitfalls of Common Estimators for Continuous Treatments (with [Jan Stuhler](https://janstuhler.com/))
   
-## Policy reports
+## Policy Reports
 - World Bank Reports. \
 [A Path to Inclusive Growth in the EU amid Inflation and Fiscal Constraints](https://documents1.worldbank.org/curated/en/099121724035078520/pdf/P50045917da9dd0e5188d31194d03f6c875.pdf) (2024).\
 [Energizing Europe--Inclusive Growth: Inflation Chipping Away the Gains from Inclusion](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf) (2023). \
