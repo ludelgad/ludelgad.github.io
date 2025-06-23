@@ -10,7 +10,7 @@ I am a Postdoctoral Fellow in the Department of Economics at the University of O
 </p> Find here my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf).
 
 <p align="left" >  
-I am broadly interested in labor economics and applied microeconomics. My current research focuses on topics about immigration, minimum wages, and monopsony power, and I study how workers, firms, and markets adjust to different shocks.
+I am broadly interested in labor economics and applied microeconomics. My current research focuses on immigration, minimum wages, and monopsony power, and I study how workers, firms, and markets respond to shocks.
 </p>
 
  - Member of [LinkEED-OECD](https://www.oecd.org/en/about/projects/linkeed-200.html) and Consultant for the World Bank.
