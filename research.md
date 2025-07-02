@@ -6,8 +6,8 @@ layout: page
 
 ## Working Papers
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
-  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_ \
+  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
    <sub>[Version: April 2025]</sub>
   <details><summary>Abstract</summary> <p> 
 The labor market effects of immigration on natives depend on how firms respond, yet this aspect remains unexplored in developing countries. This paper examines the mass influx of Venezuelan migrants into Colombia using matched employee-employer data. As immigrants concentrate in the informal sector, formal employment for minimum-wage natives declines, reflecting their substitutability with lower-cost informal workers. Given their reliance on informality, negative employment and wage impacts are more pronounced in small formal firms. A machine learning algorithm indicates that firm rather than worker characteristics drive the heterogeneous impacts. These findings help to determine how firms shape workers' adjustments to immigration.
@@ -20,7 +20,7 @@ The labor market effects of immigration on natives depend on how firms respond, 
   </p> </details>
 
 - [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
-  Listed in [Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y) \
+  Listed in *[Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y)* \
     <sub>[Version: June 2025]</sub>
   <details><summary>Abstract</summary><p> 
 Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, how it impacts the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
