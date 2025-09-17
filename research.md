@@ -8,7 +8,7 @@ layout: page
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_ \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
-   <sub>[Version: April 2025]</sub>
+   <sub>[Version: September 2025]</sub>
   <details><summary>Abstract</summary> <p> 
 The labor market effects of immigration depend on how firms adjust labor demand, yet this channel remains unexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using matched employer-employee data. As immigrants concentrate in the informal sector, formal employment of minimum-wage natives falls, reflecting their substitutability with lower-cost informal workers. These negative effects are stronger in small formal firms, which rely more heavily on informality. A machine learning analysis shows that firm, rather than worker, characteristics explain the heterogeneity in impacts. These findings highlight the central role of firms in shaping workers' adjustment to immigration.
   </p></details>
