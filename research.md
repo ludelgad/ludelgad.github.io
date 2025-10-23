@@ -5,6 +5,14 @@ layout: page
 ---
 
 ## Working Papers
+- [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
+  Revise & Resubmit, ***Journal of Development Economics*** \
+  Listed in *[Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y)* \
+    <sub>[Version: June 2025]</sub>
+  <details><summary>Abstract</summary><p> 
+Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, its impact on the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post-discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
+  </p> </details>
+  
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_ \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
@@ -17,13 +25,6 @@ The labor market effects of immigration depend on how and which firms adjust lab
  <sub>[Version: September 2025]</sub>
   <details><summary>Abstract</summary><p> 
       Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities. 
-  </p> </details>
-
-- [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
-  Listed in *[Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y)* \
-    <sub>[Version: June 2025]</sub>
-  <details><summary>Abstract</summary><p> 
-Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, how it impacts the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
   </p> </details>
 
 - [Firms, Regularization, and Immigrant Integration](https://ludelgad.github.io/files/Assimilation_LADP.pdf) \
