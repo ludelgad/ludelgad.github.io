@@ -10,7 +10,7 @@ I am a Postdoctoral Fellow in the Department of Economics at the University of O
 <p align="left" > 
 I obtained my PhD in Economics at Universidad Carlos III de Madrid in 2024, and visited UC Berkeley during my doctoral studies.
 
-</p> If you are interested in here[CV](https://ludelgad.github.io/files/Delgado_CV.pdf) - [Email](mailto:laprieto@econ.uio.no)
+</p> If you are interested here is my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and [Email](mailto:laprieto@econ.uio.no).
 
 <p align="left" >  
 I am broadly interested in labor economics and applied microeconomics. My current research focuses on questions related to immigration or monopsony power, combining structural and reduced-form approaches.
