@@ -6,13 +6,14 @@ title: "Lukas Delgado-Prieto"
 ### Hello, welcome to my webpage! 
  
 <p align="left" > 
-I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo. \
-I obtained my PhD in Economics at Universidad Carlos III de Madrid in 2024, and visited UC Berkeley during my doctoral studies.
+I am a Postdoctoral Fellow in the Department of Economics at the University of Oslo.
  
 </p> [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) - [Email](mailto:laprieto@econ.uio.no)
 
+I obtained my PhD in Economics at Universidad Carlos III de Madrid in 2024, and visited UC Berkeley during my doctoral studies.
+
 <p align="left" >  
-I am broadly interested in labor economics and applied microeconomics. My current research focuses on immigration and monopsony power.
+I am broadly interested in labor economics and applied microeconomics. My current research focuses on questions related to immigration or monopsony power, combining structural and reduced-form approaches.
 </p>
 
 - **Affiliations:** Research Affiliate, [RFBerlin](https://www.rfberlin.com/affiliates/). Member, [LinkEED–OECD](https://www.oecd.org/en/about/projects/linkeed-200.html). Consultant, the World Bank.
