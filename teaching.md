@@ -6,7 +6,11 @@ layout: page
 
 **Teaching Assistant at UiO:**
 
-1. Strategic Competition (English), Spring 2025
+1. Labor Economics (English), Fall 2025
+- Prof. Manudeep Bhuller
+
+
+2. Strategic Competition (English), Spring 2025
 - Prof. Kristoffer Midttømme
 
 **Teaching Assistant at UC3M:**
