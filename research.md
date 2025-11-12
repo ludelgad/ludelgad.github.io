@@ -22,7 +22,7 @@ The labor market effects of immigration depend on how and which firms adjust lab
   </p></details>
 
 - [Monopsony Power and Firm Organization](https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf) (with [Álvaro Jáñez](https://ajanez.github.io/)) \
-  Listed in [RFBerlin WP Series](https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/) \
+  Listed in *[RFBerlin WP Series](https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/)* \
  <sub>[Version: October 2025]</sub>
   <details><summary>Abstract</summary><p> 
       Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities. 
