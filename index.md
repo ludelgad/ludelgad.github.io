@@ -16,7 +16,7 @@ I obtained my PhD in Economics at Universidad Carlos III de Madrid in 2024, and 
 </p> If you are interested, here is my [CV](https://ludelgad.github.io/files/Delgado_CV.pdf) and [Email](mailto:laprieto@econ.uio.no).
 
 <p align="left" >  
-I am broadly studying topics in labor economics and applied microeconomics. My current research focuses on questions related to immigration, monopsony power, or informality.
+I am broadly studying topics in labor economics and applied microeconomics. My current research focuses on questions related to immigration, monopsony power, and informality.
 </p>
 
 - **Affiliations:** Research Affiliate, [RFBerlin](https://www.rfberlin.com/affiliates/). Member, [LinkEED–OECD](https://www.oecd.org/en/about/projects/linkeed-200.html). Consultant, the World Bank.
