@@ -5,6 +5,14 @@ layout: page
 ---
 
 ## Working Papers
+
+- [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516) (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
+   _Winner of the Best Paper Award at CUFE Forum 2025_
+      <sub>[Version: December 2025]</sub>
+  <details><summary>Abstract</summary><p> 
+This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
+  </p> </details>
+  
 - [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
   Revise & Resubmit, ***Journal of Development Economics*** \
   Listed in *[Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y)* \
@@ -44,8 +52,6 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
 ## Work in Progress
 
 - Pitfalls of Common Estimators for Continuous Gradual Treatments (with [Jan Stuhler](https://janstuhler.com/))
-- Wage-Setting Constraints and Firm Responses to Demand Shocks (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
-   _Winner of the Best Paper Award at CUFE Forum 2025_
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez)
   
 ## Policy Reports
