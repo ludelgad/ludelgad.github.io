@@ -53,6 +53,7 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
 
 - Pitfalls of Common Estimators for Continuous Gradual Treatments (with [Jan Stuhler](https://janstuhler.com/))
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez)
+- Integration of Migrants: Cross-Country Evidence from Linked Employer-Employee Data (with Jaime Arellano-Bover, César Barreto, Ana Damas de Matos, Alexander Hijzen, & the LinkEED network)
   
 ## Policy Reports
 - OECD: \
