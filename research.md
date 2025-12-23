@@ -7,7 +7,7 @@ layout: page
 ## Working Papers
 
 - [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516) (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
-   _Winner of the Best Paper Award at CUFE Forum 2025_
+   _Winner of the Best Paper Award at CUFE Forum 2025_ \
       <sub>[Version: December 2025]</sub>
   <details><summary>Abstract</summary><p> 
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
