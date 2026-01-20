@@ -5,13 +5,6 @@ layout: page
 ---
 
 ## Working Papers
-
-- [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516) (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
-   _Winner of the Best Paper Award at CUFE Forum 2025_ \
-      <sub>[Version: December 2025]</sub>
-  <details><summary>Abstract</summary><p> 
-This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
-  </p> </details>
   
 - [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
   Revise & Resubmit, ***Journal of Development Economics*** \
@@ -20,9 +13,16 @@ This paper investigates how institutional wage-setting constraints, such as a na
   <details><summary>Abstract</summary><p> 
 Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, its impact on the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post-discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
   </p> </details>
+
+- [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516) (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
+   _Winner of the Best Paper Award at CUFE Forum (2025)_ \
+      <sub>[Version: December 2025]</sub>
+  <details><summary>Abstract</summary><p> 
+This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
+  </p> </details>
   
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
-  _Winner of the Best Immigration Economics Paper at OECD Immigration Conference 2023_ \
+  _Winner of the Best Immigration Economics Paper at OECD Immigration Conference (2023)_ \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
    <sub>[Version: September 2025]</sub>
   <details><summary>Abstract</summary> <p> 
