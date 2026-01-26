@@ -21,10 +21,10 @@ Hard discount stores have reshaped the retail sector by offering low-cost produc
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
   </p> </details>
   
-- [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/JMP_Delgado.pdf) \
+- [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference (2023)_ \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
-   <sub>[Version: September 2025]</sub>
+   <sub>[Version: January 2026]</sub>
   <details><summary>Abstract</summary> <p> 
 The labor market effects of immigration depend on how and which firms adjust labor demand, yet this dimension remains underexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using matched employer-employee data. As immigrants concentrate in the informal sector, formal employment of minimum-wage natives falls, reflecting their substitutability with lower-cost informal workers. These negative effects are stronger in small formal firms, which rely more heavily on informality. A machine learning analysis shows that firm, rather than worker, characteristics explain the heterogeneity in impacts. These findings highlight the central role of firms in shaping workers' adjustment to immigration.
   </p></details>
