@@ -23,8 +23,8 @@ This paper investigates how institutional wage-setting constraints, such as a na
   
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf) \
   _Winner of the Best Immigration Economics Paper at OECD Immigration Conference (2023)_ \
-  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
   Listed in *[RFBerlin WP Series](https://www.rfberlin.com/network-paper/worker-responses-to-immigration-across-firms-evidence-from-colombia/)* \
+  Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
    <sub>[Version: January 2026]</sub>
   <details><summary>Abstract</summary> <p> 
 The labor market effects of immigration depend on how firms adjust, yet this aspect remains unexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using employer-employee data. As immigrants concentrate in informal employment, formal employment for minimum-wage natives falls, reflecting their substitutability with lower-cost informal workers. The negative effects are stronger in small formal firms, which rely more on informality. A machine learning analysis shows that firm-level factors explain more of the heterogeneity in worker-level impacts. These findings highlight that informality amplifies firms' role in shaping workers' immigration adjustments.
