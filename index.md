@@ -8,10 +8,10 @@ I am a **Postdoctoral Fellow** in the Department of Economics at the [University
 I study questions in **labor economics** and **applied microeconomics**, with a focus on:
 
 <p>
+  <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Firms</span>
+    <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Monopsony Power</span>
   <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Immigration</span>
-  <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Monopsony &amp; Wage-Setting</span>
   <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Informality</span>
-  <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Firm Behavior</span>
 </p>
 
 ---
