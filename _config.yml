@@ -27,9 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/ludelgad"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/LaDelgadoP"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=lHWQcrEAAAAJ"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/lukas-delgado-prieto"}
-  - {title: IDEAS/RePEC, icon: database, url: "https://ideas.repec.org/search.html?query=Lukas+Delgado-Prieto"}
-  - {title: SSRN, icon: file-alt, url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5717736"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/lukas-delgado/"}
 
 
 comments:
