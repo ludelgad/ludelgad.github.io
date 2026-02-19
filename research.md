@@ -80,7 +80,7 @@ This paper examines the labor market integration of millions of migrants in Colo
 ## Publications
 
 <div class="paper">
-<strong><a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
+<strong>1. <a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
 <div class="tags">
   <span class="tag tag-status">Journal of Population Economics · 2024 · Vol 37, Art 55</span>
   &nbsp;<div style="display:inline-block;vertical-align:middle;" data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s00148-024-01028-5" class="altmetric-embed"></div>
@@ -103,9 +103,6 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
 
 ## Policy Reports
 
-- **OECD:** [International Migration Outlook, Ch. 4](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/immigrant-integration-the-role-of-firms_db745b4c.html#chapter-d1e32300-367e1ca8ab) (2025)
+- **OECD:** [International Migration Outlook, Ch. 4](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/immigrant-integration-the-role-of-firms_db745b4c.html#chapter-d1e32300-367e1ca8ab) (2025).
 - **World Bank:**
-  [Soaring Food Prices Threaten Recent Economic Gains in the EU](https://documents1.worldbank.org/curated/en/099556006302584753/pdf/IDU-2faeb668-9892-4c45-ab16-3e3bfe8420d3.pdf) (2025) ·
-  [A Path to Inclusive Growth in the EU amid Inflation and Fiscal Constraints](https://documents1.worldbank.org/curated/en/099121724035078520/pdf/P50045917da9dd0e5188d31194d03f6c875.pdf) (2024) ·
-  [Energizing Europe--Inclusive Growth](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf) (2023) ·
-  [Energizing Europe--Rising to the Challenge](https://openknowledge.worldbank.org/server/api/core/bitstreams/fb00fa8a-9cfd-4b3e-87a4-c206dd244571/content) (2023)
+  [Soaring Food Prices Threaten Recent Economic Gains in the EU](https://documents1.worldbank.org/curated/en/099556006302584753/pdf/IDU-2faeb668-9892-4c45-ab16-3e3bfe8420d3.pdf) (2025), [A Path to Inclusive Growth in the EU amid Inflation and Fiscal Constraints](https://documents1.worldbank.org/curated/en/099121724035078520/pdf/P50045917da9dd0e5188d31194d03f6c875.pdf) (2024), [Energizing Europe--Inclusive Growth](https://documents1.worldbank.org/curated/en/099051123175082267/pdf/P18028109bfab800b0a771047dfd6c90089.pdf) (2023), [Energizing Europe--Rising to the Challenge](https://openknowledge.worldbank.org/server/api/core/bitstreams/fb00fa8a-9cfd-4b3e-87a4-c206dd244571/content) (2023).
