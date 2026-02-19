@@ -12,7 +12,7 @@ layout: page
 .paper .authors { font-size:0.9em; color:#555; margin:4px 0 8px 0; }
 .paper .tags { margin:6px 0; }
 .paper .tag { display:inline-block; font-size:0.78em; padding:2px 8px; border-radius:3px; margin:2px 2px 2px 0; }
-.tag-status  { background:#2D2D2D; color:white; }
+.tag-status  { background:#6B7280; color:white; }
 .tag-award   { background:#8B6914; color:white; }
 .tag-version { background:#EAEAEA; color:#2D2D2D; border:1px solid #ccc; }
 .tag-wp      { background:#EAEAEA; color:#2D2D2D; border:1px solid #ccc; text-decoration:none; }
