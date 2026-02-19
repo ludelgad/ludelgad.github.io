@@ -7,7 +7,8 @@ I am a **Postdoctoral Fellow** in the Department of Economics at the [University
 
 I study questions in **labor economics** and **applied microeconomics**, with a focus on:
 
-.tag {
+<style>
+  .tag {
   background:#EAEAEA;
   color:#2D2D2D;
   border:1px solid #ccc;
@@ -17,6 +18,8 @@ I study questions in **labor economics** and **applied microeconomics**, with a 
   margin:3px 2px;
   display:inline-block;
 }
+</style>
+
 
 <p>
   <span class="tag">Firms</span>
