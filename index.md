@@ -3,7 +3,7 @@ layout: page
 title: "Lukas Delgado-Prieto"
 ---
 
-I am a **Postdoctoral Fellow** in the Department of Economics at the [University of Oslo](https://www.sv.uio.no/econ/english/). I obtained my PhD in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es/) in 2024, and visited [UC Berkeley](https://econ.berkeley.edu/) during my doctoral studies.
+I am a **Postdoctoral Fellow** in the Department of Economics at the [University of Oslo](https://www.sv.uio.no/econ/english/). I obtained my PhD in Economics at [Universidad Carlos III](https://economics.uc3m.es/) in 2024, and visited [UC Berkeley](https://econ.berkeley.edu/) during my doctoral studies.
 
 I study questions in **labor economics** and **applied microeconomics**, with a focus on:
 
@@ -12,7 +12,6 @@ I study questions in **labor economics** and **applied microeconomics**, with a 
   <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Monopsony &amp; Wage-Setting</span>
   <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Informality</span>
   <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Firm Behavior</span>
-  <span style="background:#EAEAEA;color:#2D2D2D;border:1px solid #ccc;padding:4px 12px;border-radius:20px;font-size:0.84em;margin:3px 2px;display:inline-block;">Labor Market Policy</span>
 </p>
 
 ---
