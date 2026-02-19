@@ -85,7 +85,7 @@ This paper examines the labor market integration of millions of migrants in Colo
   <span class="tag tag-status">Journal of Population Economics · 2024 · Vol 37, Art 55</span>
   &nbsp;<div style="display:inline-block;vertical-align:middle;" data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s00148-024-01028-5" class="altmetric-embed"></div>
 </div>
-<p class="wp-label">WP: <a href="https://e-archivo.uc3m.es/handle/10016/35664" class="tag tag-wp">UC3M WP</a> <a href="https://osf.io/preprints/socarxiv/acr4v" class="tag tag-wp">SocArXiv</a> <a href="https://repositorio.redinvestigadores.org/handle/Riec/118" class="tag tag-wp">RieC</a></p>
+<p class="wp-label">WP: <a href="https://e-archivo.uc3m.es/handle/10016/35664" class="tag tag-wp">UC3M</a> <a href="https://osf.io/preprints/socarxiv/acr4v" class="tag tag-wp">SocArXiv</a> <a href="https://repositorio.redinvestigadores.org/handle/Riec/118" class="tag tag-wp">RieC</a></p>
 <details><summary>Abstract</summary><p>
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
 </p></details>
