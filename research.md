@@ -4,59 +4,66 @@ permalink: "/research/"
 layout: page
 ---
 
+<!-- Altmetric script: auto-updates badges with citations, news, social media mentions -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 ## Working Papers
-  
+
 - [Retail Expansion in Developing Countries: Evidence from Hard Discount Stores](https://ludelgad.github.io/files/Hard_Discount_Stores.pdf) (with Andrés Calderón & [Andrea Otero-Cortés](https://sites.google.com/view/andrea-otero-cortes/home))\
-  Revise & Resubmit, ***Journal of Development Economics*** \
+  ![Status](https://img.shields.io/badge/Revise%20%26%20Resubmit-Journal%20of%20Development%20Economics-2e8b57?style=flat-square)
   Listed in *[Banco de la República-DTSERU](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y)* \
     <sub>[Version: June 2025]</sub>
-  <details><summary>Abstract</summary><p> 
+  <details><summary>Abstract</summary><p>
 Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, its impact on the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post-discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
   </p> </details>
 
 - [Wage-Setting Constraints and Firm Responses to Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516) (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home), [Santiago Hermo](https://santiagohermo.github.io/) & [Linnea Lorentzen](https://sites.google.com/view/linnealorentzen/home)) \
-   _Winner of the Best Paper Award at CUFE Forum (2025)_ \
+   ![Award](https://img.shields.io/badge/🏆%20Best%20Paper-CUFE%20Forum%202025-gold?style=flat-square)
       <sub>[Version: December 2025]</sub>
-  <details><summary>Abstract</summary><p> 
+  <details><summary>Abstract</summary><p>
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
   </p> </details>
-  
+
 - [Worker Responses to Immigration Across Firms: Evidence from Colombia](https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf) \
-  _Winner of the Best Immigration Economics Paper at OECD Immigration Conference (2023)_ \
+  ![Award](https://img.shields.io/badge/🏆%20Best%20Immigration%20Paper-OECD%20Conference%202023-gold?style=flat-square) \
   Listed in *[RFBerlin WP Series](https://www.rfberlin.com/network-paper/worker-responses-to-immigration-across-firms-evidence-from-colombia/)* \
   Coverage: [uc3nomics blog](https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/) and [PSE Migration policy briefs](https://www.calameo.com/read/0074844316280932ce5e2) \
    <sub>[Version: January 2026]</sub>
-  <details><summary>Abstract</summary> <p> 
+  <details><summary>Abstract</summary> <p>
 The labor market effects of immigration depend on how firms adjust, yet this aspect remains unexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using employer-employee data. As immigrants concentrate in informal employment, formal employment for minimum-wage natives falls, reflecting their substitutability with lower-cost informal workers. The negative effects are stronger in small formal firms, which rely more on informality. A machine learning analysis shows that firm-level factors explain more of the heterogeneity in worker-level impacts. These findings highlight that informality amplifies firms' role in shaping workers' immigration adjustments.
   </p></details>
 
 - [Monopsony Power and Firm Organization](https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf) (with [Álvaro Jáñez](https://ajanez.github.io/)) \
   Listed in *[RFBerlin WP Series](https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/)* \
  <sub>[Version: October 2025]</sub>
-  <details><summary>Abstract</summary><p> 
-      Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities. 
+  <details><summary>Abstract</summary><p>
+      Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities.
   </p> </details>
 
 - [Firms, Regularization, and Immigrant Integration](https://ludelgad.github.io/files/Assimilation_LADP.pdf) \
   <sub>[Version: August 2025]</sub>
-  <details><summary>Abstract</summary><p> 
+  <details><summary>Abstract</summary><p>
 This paper examines the labor market integration of millions of migrants in Colombia during a large-scale regularization, focusing on how firms shape these dynamics. Using matched employee-employer data for the universe of regularized migrants in the formal sector, along with household survey data covering the informal sector, I uncover substantial disparities. The most pronounced one is related to informality: migrants are nearly twice as likely to work informally as comparable natives. Despite regularization programs, only 10% of regularized migrants had formal jobs by 2021. Those entering the formal sector typically work in minimum-wage jobs and within small, low-paying firms, earning around half the wages of comparable natives. Close to 50% of the overall wage gap between them is due to the differential migrant sorting into firms with lower pay policies. While there are improvements as migrants gain formal sector experience, a persistent gap remains across various job and firm characteristics. Finally, I discuss why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits. Regularized migrants have lower attachment to formal employment and higher firm mobility, which may reduce employers' incentives to hire them. </p> </details>
 
 ## Publications
+
 - [Immigration, Wages, and Employment under Informal Labor Markets](https://doi.org/10.1007/s00148-024-01028-5)\
-Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArXiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
-***Journal of Population Economics*** (2024) Vol 37, Art 55.
-  <details><summary>Abstract</summary><p> 
+  ![Journal](https://img.shields.io/badge/Journal%20of%20Population%20Economics-2024-4a90d9?style=flat-square&logo=bookstack&logoColor=white)
+  &nbsp;<div style="display:inline-block" data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s00148-024-01028-5" class="altmetric-embed"></div>\
+  Listed in *[UC3M working paper series](https://e-archivo.uc3m.es/handle/10016/35664)*, *[SocArXiv](https://osf.io/preprints/socarxiv/acr4v)* and *[RieC](https://repositorio.redinvestigadores.org/handle/Riec/118)* \
+  ***Journal of Population Economics*** (2024) Vol 37, Art 55.
+  <details><summary>Abstract</summary><p>
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
   </p> </details>
-  
+
 ## Work in Progress
 
 - Pitfalls of Common Estimators for Continuous Dynamic Treatments (with [Jan Stuhler](https://janstuhler.com/))
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez)
 - Integration of Migrants: Cross-Country Evidence from Linked Employer-Employee Data (with Jaime Arellano-Bover, César Barreto, Ana Damas de Matos, Alexander Hijzen & the LinkEED network)
-  
+
 ## Policy Reports
+
 - OECD: \
   [International Migration Outlook, Ch. 4](https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/immigrant-integration-the-role-of-firms_db745b4c.html#chapter-d1e32300-367e1ca8ab) (2025).
 - World Bank: \
