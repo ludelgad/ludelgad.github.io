@@ -38,9 +38,15 @@ I study questions in **labor economics** and **applied microeconomics**, with a 
 </div>
 
 <p style="margin-top:16px;font-size:0.95em;">
-  <a href="mailto:laprieto@econ.uio.no">✉&nbsp; laprieto@econ.uio.no</a>
+  <span id="email"></span>
   &ensp;·&ensp;
   <a href="https://ludelgad.github.io/files/Delgado_CV.pdf">↓&nbsp; CV</a>
   &ensp;·&ensp;
   <a href="https://www.linkedin.com/in/lukas-delgado/">LinkedIn</a>
 </p>
+
+<script>
+  const u="laprieto", d="econ.uio.no";
+  document.getElementById("email").innerHTML =
+    `<a href="mailto:${u}@${d}">✉&nbsp; ${u} at ${d}</a>`;
+</script>
