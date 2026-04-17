@@ -54,8 +54,8 @@ This paper investigates how institutional wage-setting constraints, such as a na
 </div>
 <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/worker-responses-to-immigration-across-firms-evidence-from-colombia/" class="tag tag-wp">RFBerlin</a></p>
 <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/">uc3nomics blog</a> · <a href="https://www.calameo.com/read/0074844316280932ce5e2">PSE Migration policy briefs</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: January 2026</summary><p>
-The labor market effects of immigration depend on how firms adjust, yet this aspect remains unexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using employer-employee data. As immigrants concentrate in informal employment, formal employment for minimum-wage natives falls, reflecting their substitutability with lower-cost informal workers. The negative effects are stronger in small formal firms, which rely more on informality. A machine learning analysis shows that firm-level factors explain more of the heterogeneity in worker-level impacts. These findings highlight that informality amplifies firms' role in shaping workers' immigration adjustments.
+<details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
+The labor market effects of immigration depend on how firms adjust, yet this aspect remains unexplored in developing countries. This paper studies the mass influx of Venezuelan migrants into Colombia using employer-employee data. As immigrants enter informal employment, formal employment for minimum-wage natives declines, reflecting their substitutability with lower-cost informal workers. The negative effects are stronger in small formal firms, which rely more on informality. A machine learning analysis shows that firm-level factors explain more of the heterogeneity in worker-level impacts. These findings highlight that informality amplifies the role of firms in shaping workers' adjustments to immigration.
 </p></details>
 </div>
 
