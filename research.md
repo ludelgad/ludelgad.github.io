@@ -31,8 +31,8 @@ layout: page
   <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
 </div>
 <p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: June 2025</summary><p>
-Hard discount stores have reshaped the retail sector by offering low-cost products. While this business model has gained a significant market share in many countries, its impact on the labor market remains unclear. To address this, we analyze their rapid expansion in Colombia using administrative and survey data. Our findings show that post-discounters' entry, local formal employment increases by 10% on average, with strong spillovers from retail to manufacturing. Consistent with this, we find an increase in local tax revenues from manufacturing and commerce activities. These results suggest that hard discount stores can foster formalization in developing countries.
+<details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
+The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in commerce, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
 </p></details>
 </div>
 
