@@ -22,10 +22,19 @@ layout: page
 .paper details p { font-size:0.88em; margin-top:8px; }
 </style>
 
+
 ## Working Papers
 
 <div class="paper">
-<strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
+<strong>1. <a href="https://ludelgad.github.io">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
+<p class="authors">with <a href="[https://janstuhler.com/]">Jan Stuhler</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: May 2026</summary><p>
+We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity attenuates treatment effects by assigning lower weights to lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>2. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
 <p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
 <div class="tags">
   <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
@@ -37,18 +46,18 @@ The expansion of modern retail in developing countries has reshaped an industry 
 </div>
 
 <div class="paper">
-<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
+<strong>3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
 <div class="tags">
   <span class="tag tag-award">🏆 Best Paper · CUFE Forum 2025</span>
 </div>
-<details><summary>Abstract &nbsp;·&nbsp; Version: December 2025</summary><p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: May 2026</summary><p>
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
 </p></details>
 </div>
 
 <div class="paper">
-<strong>3. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
+<strong>4. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
 <div class="tags">
   <span class="tag tag-award">🏆 Best Immigration Paper · OECD Conference 2023</span>
 </div>
@@ -60,7 +69,7 @@ The labor market effects of immigration depend on how firms adjust, yet this asp
 </div>
 
 <div class="paper">
-<strong>4. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Monopsony Power and Firm Organization</a></strong>
+<strong>5. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Monopsony Power and Firm Organization</a></strong>
 <p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
 <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: October 2025</summary><p>
@@ -69,7 +78,7 @@ Labor market competition differs drastically for production workers and managers
 </div>
 
 <div class="paper">
-<strong>5. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
+<strong>6. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
 <details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
 This paper examines the labor market integration of millions of migrants in Colombia during a large-scale regularization program. Using labor force survey data on Venezuelan-born migrants in the informal sector and longitudinal data for the universe of regularized migrants in the formal sector, I uncover substantial disparities. The most pronounced gap is in formality: migrants are about 70% more likely to work informally than comparable natives. Despite the regularization program, only 10% of regularized migrants had formal jobs by 2021. Among those entering the formal sector, they typically work in minimum-wage jobs and in small, low-paying firms, earning around two-thirds as much as comparable natives. I find that close to 50% of the overall wage gap between them is due to migrant sorting into firms with lower pay policies. While there are improvements as migrants gain formal sector experience, a persistent gap remains. I discuss, using some evidence and theory, why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits.
 </p></details>
@@ -95,7 +104,7 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
 
 ## Work in Progress
 
-- Pitfalls of Common Estimators for Continuous Dynamic Treatments (with [Jan Stuhler](https://janstuhler.com/))
+- Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home) & [Samuel Škoda](https://samuelskoda.github.io/))
 - Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez)
 - Integration of Migrants: Cross-Country Evidence from Linked Employer-Employee Data (with Jaime Arellano-Bover, César Barreto, Ana Damas de Matos, Alexander Hijzen & the LinkEED network)
 
