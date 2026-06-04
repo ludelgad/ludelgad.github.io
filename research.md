@@ -27,7 +27,7 @@ layout: page
 
 <div class="paper">
 <strong>1. <a href="https://janstuhler.com/wp-content/uploads/2026/05/estimators_continuous_treatments_may27_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
-<p class="authors">with <a href="[https://janstuhler.com/]">Jan Stuhler</a></p>
+<p class="authors">with <a href="https://janstuhler.com/">Jan Stuhler</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: May 2026</summary><p>
 We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity does not accurately capture lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
 </p></details>
