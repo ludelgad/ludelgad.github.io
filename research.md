@@ -34,7 +34,18 @@ We examine commonly used estimators for continuous treatments that vary over tim
 </div>
 
 <div class="paper">
-<strong>2. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
+<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
+<p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
+<div class="tags">
+  <span class="tag tag-award">🏆 Best Paper · CUFE Forum 2025</span>
+</div>
+<details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
+This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional measures of employer wage-setting power and rent-sharing.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>3. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
 <p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
 <div class="tags">
   <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
@@ -42,17 +53,6 @@ We examine commonly used estimators for continuous treatments that vary over tim
 <p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
 The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in commerce, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
-<p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
-<div class="tags">
-  <span class="tag tag-award">🏆 Best Paper · CUFE Forum 2025</span>
-</div>
-<details><summary>Abstract &nbsp;·&nbsp; Version: May 2026</summary><p>
-This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional estimates of rent-sharing and employer wage-setting power.
 </p></details>
 </div>
 
