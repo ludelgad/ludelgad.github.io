@@ -39,6 +39,7 @@ We examine commonly used estimators for continuous treatments that vary over tim
 <div class="tags">
   <span class="tag tag-award">🏆 Best Paper · CUFE Forum 2025</span>
 </div>
+  <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/wage-setting-constraints-and-firm-responses-to-demand-shocks/" class="tag tag-wp">RFBerlin</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional measures of employer wage-setting power and rent-sharing.
 </p></details>
