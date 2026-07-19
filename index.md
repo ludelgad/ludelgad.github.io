@@ -34,7 +34,6 @@ I study questions in **labor economics** and **applied microeconomics**, with a 
   <strong>Affiliations</strong><br>
   Research Affiliate &nbsp;·&nbsp; <a href="https://www.rfberlin.com/affiliates/">RFBerlin</a><br>
   Member &nbsp;·&nbsp; <a href="https://www.oecd.org/en/about/projects/linkeed-200.html">LinkEED–OECD</a><br>
-  Consultant &nbsp;·&nbsp; World Bank
 </div>
 
 <p style="margin-top:16px;font-size:0.95em;">
