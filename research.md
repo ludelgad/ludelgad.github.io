@@ -19,7 +19,7 @@ layout: page
 .tag-wp:hover { background:#ddd; }
 .paper .wp-label { font-size:0.82em; color:#555; margin:6px 0 2px 0; }
 .paper details summary { font-size:0.88em; color:#555; cursor:pointer; margin-top:8px; }
-.paper details p { font-size:0.88em; margin-top:8px; }
+.paper details p { font-size:0.88em; margin-top:8px; text-align:justify; }
 </style>
 
 
