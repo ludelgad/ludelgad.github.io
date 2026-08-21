@@ -36,7 +36,7 @@ body > header h1, body > header h2, body > footer h1, body > footer h2
   body > header, body > article, body > footer
     padding: 2em calc(22% - 9em)
 
-// Home page: larger, viewport-responsive type, shifted right, wider column
+// Home page: larger, viewport-responsive type
 // (scoped to the article only, so the header/nav stays a consistent size across pages)
 body.home > article
   font-size: calc(.88em + .35vw)
@@ -44,11 +44,6 @@ body.home > article
 // Keep the heading the same absolute size as on other pages (1.45em x base $font-size)
 body.home article header h1
   font-size: calc(.928rem + .1885vw)
-
-@media (min-width: 32em)
-  body.home > article
-    padding-left: calc(22% - 6em)
-    padding-right: calc(22% - 11em)
 
 // Scrollbar Styling
 ::-webkit-scrollbar
