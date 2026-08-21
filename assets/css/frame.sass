@@ -36,6 +36,15 @@ body > header h1, body > header h2, body > footer h1, body > footer h2
   body > header, body > article, body > footer
     padding: 2em calc(22% - 9em)
 
+// Home page: larger, viewport-responsive type, shifted right, wider column
+body.home
+  font-size: clamp(1em, .88em + .35vw, 1.25em)
+
+@media (min-width: 32em)
+  body.home > article
+    padding-left: calc(22% - 6em)
+    padding-right: calc(22% - 11em)
+
 // Scrollbar Styling
 ::-webkit-scrollbar
   width: 12px
