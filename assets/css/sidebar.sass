@@ -21,10 +21,9 @@ body > article
   max-width: 40em
 
 // Home page: larger, viewport-responsive type in a wider, right-shifted column
-body.home
-  font-size: calc(.78em + .4vw)
-
+// (scoped to the article only, so the sidebar nav column stays a consistent size across pages)
 body.home > article
+  font-size: calc(.78em + .4vw)
   max-width: 48em
   margin: 0 4em 0 7em
 
