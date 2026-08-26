@@ -3,9 +3,9 @@ layout: page
 title: "Lukas Delgado-Prieto"
 ---
 
-I am a **Postdoctoral Fellow** in the Department of Economics at the [University of Oslo](https://www.sv.uio.no/econ/english/). I obtained my PhD in Economics at [Universidad Carlos III](https://economics.uc3m.es/) in 2024, and visited [UC Berkeley](https://econ.berkeley.edu/) during my doctoral studies.
+I am a **Postdoctoral Fellow** in Labor Economics at the Department of Economics at the [University of Oslo](https://www.sv.uio.no/econ/english/). I received my PhD in Economics from [Universidad Carlos III de Madrid](https://economics.uc3m.es/) in 2024.
 
-I study questions in **labor economics** and **applied microeconomics**, with a focus on:
+I study broad questions in **labor economics** and **applied microeconomics**, with a focus on:
 
 <style>
   .tag {
