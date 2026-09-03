@@ -107,7 +107,6 @@ This paper studies the labor market impacts of the Venezuelan immigration in Col
 ## Work in Progress
 
 - Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home) & [Samuel Škoda](https://samuelskoda.github.io/))
-- Immigration Shocks and Housing Dynamics: Evidence from Bogota (with [Daniel M. Angel](https://sites.google.com/view/danielmangel/home) & Juan M. Jiménez)
 - Integration of Migrants: Cross-Country Evidence from Linked Employer-Employee Data (with Jaime Arellano-Bover, César Barreto, Ana Damas de Matos, Alexander Hijzen & the LinkEED network)
 
 ---
