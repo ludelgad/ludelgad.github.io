@@ -72,6 +72,9 @@ The labor market effects of immigration depend on how firms adjust, yet this asp
 
 <div class="paper">
 <strong>5. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
+  <div class="tags">
+  <span class="tag tag-status">R&amp;R · Economic Development and Cultural Change</span>
+</div>
 <details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
 This paper examines the labor market integration of millions of migrants in Colombia during a large-scale regularization program. Using labor force survey data on Venezuelan-born migrants in the informal sector and longitudinal data for the universe of regularized migrants in the formal sector, I uncover substantial disparities. The most pronounced gap is in formality: migrants are about 70% more likely to work informally than comparable natives. Despite the regularization program, only 10% of regularized migrants had formal jobs by 2021. Among those entering the formal sector, they typically work in minimum-wage jobs and in small, low-paying firms, earning around two-thirds as much as comparable natives. I find that close to 50% of the overall wage gap between them is due to migrant sorting into firms with lower pay policies. While there are improvements as migrants gain formal sector experience, a persistent gap remains. I discuss, using some evidence and theory, why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits.
 </p></details>
