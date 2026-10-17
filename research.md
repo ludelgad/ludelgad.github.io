@@ -26,7 +26,15 @@ layout: page
 ## Working Papers
 
 <div class="paper">
-<strong>1. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
+<strong>1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7621081">Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities</a></strong>
+<p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, &amp; <a href="https://samuelskoda.github.io/">Samuel Škoda</a>
+<details><summary>Abstract &nbsp;·&nbsp; Version: October 2026</summary><p>
+Do firms adjust workplace amenities in response to demand shocks? We develop a monopsony framework in which firms jointly determine wages and amenities, and show that the pass-throughs of demand shocks depend crucially on the structure of amenity provision costs. Using Norwegian administrative data that combine matched employer-employee records, firms' cost accounts, and non-pecuniary attributes from job postings, we provide evidence on how firms adjust amenities in response to demand shocks. Exploiting three alternative sources of variation-abrupt value-added changes, public procurement contract wins, and export demand shifts-we document multi-margin adjustments in non-wage compensation, besides wage and employment. We discuss the implications of our findings for the measurement of employer market power.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>2. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
 <p class="authors">with <a href="https://janstuhler.com/">Jan Stuhler</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
 We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity does not accurately capture lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
@@ -34,7 +42,7 @@ We examine commonly used estimators for continuous treatments that vary over tim
 </div>
 
 <div class="paper">
-<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
+<strong>3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
 <div class="tags">
   <span class="tag tag-award">🏆 Best Paper · CUFE Forum 2025</span>
@@ -42,19 +50,6 @@ We examine commonly used estimators for continuous treatments that vary over tim
   <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/wage-setting-constraints-and-firm-responses-to-demand-shocks/" class="tag tag-wp">RFBerlin</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
 This paper investigates how institutional wage-setting constraints, such as a national minimum wage or collectively bargained wages, affect firm responses to demand shocks. We develop a framework to interpret heterogeneous shock responses that depend on the constraints firms face, and provide empirical evidence on the relevance of these constraints in shaping firm behavior across three countries with different institutional settings: Portugal, Norway, and Colombia. We discuss the implications of our findings for conventional measures of employer wage-setting power and rent-sharing.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>3. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
-<p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
-<div class="tags">
-  <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
-</div>
-<p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
-  <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: August 2026</summary><p>
-The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in retail, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
 </p></details>
 </div>
 
@@ -71,21 +66,38 @@ The labor market effects of immigration depend on how firms adjust, yet this asp
 </div>
 
 <div class="paper">
-<strong>5. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
+<strong>5. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Monopsony Power and Firm Organization</a></strong>
+<p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
+<p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: October 2025</summary><p>
+Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities.
+</p></details>
+</div>
+
+---
+
+## Revisions
+
+<div class="paper">
+<strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
+<p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
+<div class="tags">
+  <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
+</div>
+<p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
+  <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: August 2026</summary><p>
+The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in retail, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>2. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
   <div class="tags">
   <span class="tag tag-status">R&amp;R · Economic Development and Cultural Change</span>
 </div>
 <details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
 This paper examines the labor market integration of millions of migrants in Colombia during a large-scale regularization program. Using labor force survey data on Venezuelan-born migrants in the informal sector and longitudinal data for the universe of regularized migrants in the formal sector, I uncover substantial disparities. The most pronounced gap is in formality: migrants are about 70% more likely to work informally than comparable natives. Despite the regularization program, only 10% of regularized migrants had formal jobs by 2021. Among those entering the formal sector, they typically work in minimum-wage jobs and in small, low-paying firms, earning around two-thirds as much as comparable natives. I find that close to 50% of the overall wage gap between them is due to migrant sorting into firms with lower pay policies. While there are improvements as migrants gain formal sector experience, a persistent gap remains. I discuss, using some evidence and theory, why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>6. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Monopsony Power and Firm Organization</a></strong>
-<p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
-<p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: October 2025</summary><p>
-Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities.
 </p></details>
 </div>
 
@@ -104,13 +116,6 @@ Labor market competition differs drastically for production workers and managers
 This paper studies the labor market impacts of the Venezuelan immigration in Colombia. Exploiting spatial variation in exposure, I find a negative effect on native wages driven by the informal sector (where immigrants are concentrated) and a reduction in native employment in the formal sector (where the minimum wage binds for many workers). To explain this, I build a model in which a firm substitutes formal for informal labor in response to lower informal wages. Consistent with the model's predictions, I document that the decrease in formal employment is driven by small firms that use both labor types in production and by workers earning the minimum wage.
 </p></details>
 </div>
-
----
-
-## Work in Progress
-
-- Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities (with [Manudeep Bhuller](https://sites.google.com/site/manudeepbhuller/home) & [Samuel Škoda](https://samuelskoda.github.io/))
-- Integration of Migrants: Cross-Country Evidence from Linked Employer-Employee Data (with Jaime Arellano-Bover, César Barreto, Ana Damas de Matos, Alexander Hijzen & the LinkEED network)
 
 ---
 
