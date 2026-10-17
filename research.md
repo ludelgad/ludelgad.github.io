@@ -79,20 +79,7 @@ Labor market competition differs drastically for production workers and managers
 ## Revisions
 
 <div class="paper">
-<strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
-<p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
-<div class="tags">
-  <span class="tag tag-status">R&amp;R · Journal of Development Economics</span>
-</div>
-<p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
-  <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: August 2026</summary><p>
-The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in retail, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>2. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
+<strong>1. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
   <div class="tags">
   <span class="tag tag-status">R&amp;R · Economic Development and Cultural Change</span>
 </div>
@@ -106,7 +93,20 @@ This paper examines the labor market integration of millions of migrants in Colo
 ## Publications
 
 <div class="paper">
-<strong>1. <a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
+<strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
+<p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
+<div class="tags">
+  <span class="tag tag-status"> Accepted · Journal of Development Economics</span>
+</div>
+<p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
+  <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: August 2026</summary><p>
+The expansion of modern retail in developing countries has reshaped an industry historically dominated by traditional, informal retailers. Its consequences for labor markets, however, remain poorly understood. We study the staggered entry of hard discount stores into small Colombian municipalities between 2010 and 2019. Combining social security records with household survey and tax data, we find that following the entry of a discount chain, the formal employment-to-population ratio increases by approximately 10 percent over time. Formality rises in retail, manufacturing, and construction, along with tax revenues in those sectors. We also find no significant effects on informal employment. Our results suggest that modern retail expansion in highly informal contexts can foster labor formalization.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>2. <a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
 <div class="tags">
   <span class="tag tag-status">Journal of Population Economics · 2024 · Vol 37, Art 55</span>
   &nbsp;<div style="display:inline-block;vertical-align:middle;" data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s00148-024-01028-5" class="altmetric-embed"></div>
