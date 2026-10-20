@@ -33,6 +33,7 @@ I study broad questions in **labor economics** and **applied microeconomics**, w
 <div style="background:#F5F5F5;border:1px solid #EAEAEA;padding:10px 16px;border-radius:4px;font-size:0.9em;line-height:1.8;">
   <strong>Affiliations</strong><br>
   Research Affiliate &nbsp;·&nbsp; <a href="https://www.rfberlin.com/affiliates/">RFBerlin</a><br>
+  Fellow &nbsp;·&nbsp; <a href="https://laborhub.ilr.cornell.edu/">Labor Hub</a><br>
   Member &nbsp;·&nbsp; <a href="https://www.oecd.org/en/about/projects/linkeed-200.html">LinkEED–OECD</a><br>
 </div>
 
