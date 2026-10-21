@@ -13,6 +13,7 @@ layout: page
 .tag-status { background:transparent; color:inherit; }
 .tag-award { background:transparent; color:inherit; }
 .tag-status strong { color:#000; font-weight:700; }
+.paper .tag-status { font-size:0.95em; }
 .tag-version { background:#EAEAEA; color:#2D2D2D; border:1px solid #ccc; }
 .tag-wp { background:#EAEAEA; color:#2D2D2D; border:1px solid #ccc; text-decoration:none; }
 .tag-wp:hover { background:#ddd; }
