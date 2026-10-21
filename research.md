@@ -4,8 +4,6 @@ permalink: "/research/"
 layout: page
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 <!-- Paper card styles -->
 <style>
 .paper { background:#F5F5F5; border:1px solid #EAEAEA; border-radius:4px; padding:14px 18px; margin:20px 0; }
@@ -110,7 +108,6 @@ The expansion of modern retail in developing countries has reshaped an industry 
 <strong>2. <a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
 <div class="tags">
   <span class="tag tag-status"><strong>Journal of Population Economics</strong> · 2024 · Vol 37, Art 55</span>
-  &nbsp;<div style="display:inline-block;vertical-align:middle;" data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s00148-024-01028-5" class="altmetric-embed"></div>
 </div>
 <p class="wp-label">WP: <a href="https://e-archivo.uc3m.es/handle/10016/35664" class="tag tag-wp">UC3M</a> <a href="https://osf.io/preprints/socarxiv/acr4v" class="tag tag-wp">SocArXiv</a> <a href="https://repositorio.redinvestigadores.org/handle/Riec/118" class="tag tag-wp">RieC</a></p>
 <details><summary>Abstract</summary><p>
