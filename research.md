@@ -81,7 +81,7 @@ Labor market competition differs drastically for production workers and managers
 <div class="paper">
 <strong>1. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
 <div class="tags">
-  <span class="tag tag-status">R&amp;R · <strong>Economic Development and Cultural Change</strong></span>
+  <span class="tag tag-status"><strong>Economic Development and Cultural Change</strong>, Revise&amp;Resubmit</span>
 </div>
 <details><summary>Abstract &nbsp;·&nbsp; Version: April 2026</summary><p>
 This paper examines the labor market integration of millions of migrants in Colombia during a large-scale regularization program. Using labor force survey data on Venezuelan-born migrants in the informal sector and longitudinal data for the universe of regularized migrants in the formal sector, I uncover substantial disparities. The most pronounced gap is in formality: migrants are about 70% more likely to work informally than comparable natives. Despite the regularization program, only 10% of regularized migrants had formal jobs by 2021. Among those entering the formal sector, they typically work in minimum-wage jobs and in small, low-paying firms, earning around two-thirds as much as comparable natives. I find that close to 50% of the overall wage gap between them is due to migrant sorting into firms with lower pay policies. While there are improvements as migrants gain formal sector experience, a persistent gap remains. I discuss, using some evidence and theory, why formalization rates remain low despite migrants' similar language, culture, education, and access to work permits.
@@ -96,7 +96,7 @@ This paper examines the labor market integration of millions of migrants in Colo
 <strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
 <p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
 <div class="tags">
-  <span class="tag tag-status">Accepted · <strong>Journal of Development Economics</strong> · 2026</span>
+  <span class="tag tag-status"><strong>Journal of Development Economics</strong>, Accepted, 2026. </span>
 </div>
 <p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
 <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik </a> · <a href="https://www.elcolombiano.com/opinion/columnistas/mateo-castano-ahi-estan-pintados-rappi-y-d1-NI28753592"> El Colombiano </a> · <a href="https://cambiocolombia.com/puntos-de-vista/articulo/2025/9/los-gigantes-del-barrio"> CAMBIO </a> · <a href="https://www.infobae.com/colombia/2025/08/30/banco-de-la-republica-confirmo-si-los-supermercados-de-bajo-costo-estan-quebrando-las-tiendas-y-desatando-la-informalidad/"> Infobae </a> </p>
@@ -108,7 +108,7 @@ The expansion of modern retail in developing countries has reshaped an industry 
 <div class="paper">
 <strong>2. <a href="https://doi.org/10.1007/s00148-024-01028-5">Immigration, Wages, and Employment under Informal Labor Markets</a></strong>
 <div class="tags">
-  <span class="tag tag-status"><strong>Journal of Population Economics</strong> · 2024 · Vol 37, Art 55</span>
+  <span class="tag tag-status"><strong>Journal of Population Economics</strong>, Vol 37, Art 55, 2024. </span>
 </div>
 <p class="wp-label">WP: <a href="https://e-archivo.uc3m.es/handle/10016/35664" class="tag tag-wp">UC3M</a> <a href="https://osf.io/preprints/socarxiv/acr4v" class="tag tag-wp">SocArXiv</a> <a href="https://repositorio.redinvestigadores.org/handle/Riec/118" class="tag tag-wp">RieC</a></p>
 <details><summary>Abstract</summary><p>
