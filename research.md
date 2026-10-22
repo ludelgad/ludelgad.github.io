@@ -96,7 +96,7 @@ This paper examines the labor market integration of millions of migrants in Colo
 <strong>1. <a href="https://ludelgad.github.io/files/Hard_Discount_Stores.pdf">Retail Expansion in Developing Countries: Evidence from Hard Discount Stores</a></strong>
 <p class="authors">with Andrés Calderón &amp; <a href="https://sites.google.com/view/andrea-otero-cortes/home">Andrea Otero-Cortés</a></p>
 <div class="tags">
-  <span class="tag tag-status"><strong><em>Journal of Development Economics</em>/strong> (2026), <em>Accepted</em>. </span>
+  <span class="tag tag-status"><strong><em>Journal of Development Economics</em></strong> (2026), <em>Accepted</em>. </span>
 </div>
 <p class="wp-label">WP: <a href="https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10785/DTSERU_326.pdf?sequence=9&isAllowed=y" class="tag tag-wp">Banco de la República</a></p>
 <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://www.banrep.gov.co/es/blog/como-tiendas-hard-discount-han-transformado-economias-locales">Blog BanRep</a> · <a href="https://www.portafolio.co/negocios/empresas/esto-generan-d1-y-ara-sobre-el-empleo-y-las-tiendas-segun-el-banco-de-la-republica-639618">Portafolio</a> · <a href="https://www.valoraanalitik.com/hard-discounts-empleo-y-recaudo-en-colombia/">Valora Analitik </a> · <a href="https://www.elcolombiano.com/opinion/columnistas/mateo-castano-ahi-estan-pintados-rappi-y-d1-NI28753592"> El Colombiano </a> · <a href="https://cambiocolombia.com/puntos-de-vista/articulo/2025/9/los-gigantes-del-barrio"> CAMBIO </a> · <a href="https://www.infobae.com/colombia/2025/08/30/banco-de-la-republica-confirmo-si-los-supermercados-de-bajo-costo-estan-quebrando-las-tiendas-y-desatando-la-informalidad/"> Infobae </a> </p>
