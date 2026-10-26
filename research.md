@@ -81,6 +81,7 @@ Labor market competition differs drastically for production workers and managers
 <div class="paper">
 <strong>1. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
 <div class="tags">
+  <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/firms-regularization-and-immigrant-integration/" class="tag tag-wp">RFBerlin</a></p>
   <span class="tag tag-status"><strong><em>Economic Development and Cultural Change</em></strong>, <em>Revised &amp; Resubmitted</em>.</span>
 </div>
 <details><summary>Abstract &nbsp;·&nbsp; Version: October 2026</summary><p>
