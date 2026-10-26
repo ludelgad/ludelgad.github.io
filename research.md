@@ -81,8 +81,8 @@ Labor market competition differs drastically for production workers and managers
 <div class="paper">
 <strong>1. <a href="https://ludelgad.github.io/files/Assimilation_LADP.pdf">Firms, Regularization, and Immigrant Integration</a></strong>
 <div class="tags">
-  <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/firms-regularization-and-immigrant-integration/" class="tag tag-wp">RFBerlin</a></p>
   <span class="tag tag-status"><strong><em>Economic Development and Cultural Change</em></strong>, <em>Revised &amp; Resubmitted</em>.</span>
+    <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/firms-regularization-and-immigrant-integration/" class="tag tag-wp">RFBerlin</a></p>
 </div>
 <details><summary>Abstract &nbsp;·&nbsp; Version: October 2026</summary><p>
 This paper examines the labor market integration of Venezuelan migrants in Colombia during a large-scale regularization program. Using labor force survey data on Venezuelan-born migrants and longitudinal data for the universe of regularized migrants, I find that migrants are much more likely than comparable natives to work informally, and only a small share of regularized migrants end up in formal jobs. Those who enter the formal sector earn substantially less than natives, and up to half of this wage gap is due to their sorting into lower-paying firms. Comparing job movers, I show that as migrants transition to better-paying firms, they do not capture their pay premiums fully. There are some improvements as regularized migrants gain formal sector experience, but most of the gap remains after five years. I discuss why formalization rates are not higher despite migrants' similar language, culture, education, and near-universal access to work permits.
