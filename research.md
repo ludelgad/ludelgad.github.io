@@ -60,8 +60,8 @@ This paper investigates how institutional wage-setting constraints, such as a na
 </div>
 <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/worker-responses-to-immigration-across-firms-evidence-from-colombia/" class="tag tag-wp">RFBerlin</a></p>
 <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/">uc3nomics blog</a> · <a href="https://www.calameo.com/read/0074844316280932ce5e2">PSE Migration policy briefs</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: August 2026</summary><p>
-The labor market effects of immigration depend on how firms adjust, yet this aspect remains under-explored in developing countries. This paper studies the short-run labor market effects of the mass influx of Venezuelan migrants into Colombia using employer-employee data. As immigrants enter informal employment, formal employment for minimum-wage natives declines, reflecting their substitutability with lower-cost informal workers. The negative effects are stronger in small firms, which rely more on informality. A machine learning analysis indicates that firm-level factors explain more of the heterogeneity in worker-level impacts. These findings highlight that informality amplifies firms' role in shaping immigration impacts on workers.
+<details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
+This paper examines the short-run labor market effects of the mass arrival of Venezuelan migrants into Colombia using matched employer-employee data. After immigrants arrive, formal employment declines among minimum-wage natives, while those earning above the minimum face negative wage effects. Small, lower-paying firms drive these effects, consistent with a model in which they can hire workers informally. Using machine learning, I show that firm-level factors are important predictors of heterogeneity in worker-level impacts. These findings highlight how informality can amplify the role of firms in shaping immigration effects.
 </p></details>
 </div>
 
