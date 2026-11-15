@@ -28,21 +28,13 @@ layout: page
 <div class="paper">
 <strong>1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7621081">Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, &amp; <a href="https://samuelskoda.github.io/">Samuel Škoda</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: October 2026</summary><p>
-Do firms adjust workplace amenities in response to demand shocks? We develop a monopsony framework in which firms jointly determine wages and amenities, and show that the pass-throughs of demand shocks depend crucially on the structure of amenity provision costs. Using Norwegian administrative data that combine matched employer-employee records, firms' cost accounts, and non-pecuniary attributes from job postings, we provide evidence on how firms adjust amenities in response to demand shocks. Exploiting three alternative sources of variation-abrupt value-added changes, public procurement contract wins, and export demand shifts-we document multi-margin adjustments in non-wage compensation, besides wage and employment. We discuss the implications of our findings for the measurement of employer market power.
+<details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
+Do firms adjust workplace amenities in response to demand shocks? We develop a monopsony framework in which firms jointly set wages and amenities and show that responses to demand shocks depend crucially on the structure of amenity provision costs. Using Norwegian data that combine matched employer-employee records, firms’ cost accounts, and non-pecuniary job attributes drawn from job postings, we exploit three distinct sources of firm-level demand shocks: abrupt changes in value added, public procurement contract wins, and export demand shifts. We document multi-margin adjustments in amenities alongside wages and employment, and discuss implications for the measurement of employer market power.
 </p></details>
 </div>
 
 <div class="paper">
-<strong>2. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
-<p class="authors">with <a href="https://janstuhler.com/">Jan Stuhler</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
-We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity does not accurately capture lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
+<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
 <div class="tags">
   <span class="tag tag-award"> Best Paper · CUFE Forum 2025</span>
@@ -54,7 +46,7 @@ This paper investigates how institutional wage-setting constraints, such as a na
 </div>
 
 <div class="paper">
-<strong>4. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
+<strong>3. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
 <div class="tags">
   <span class="tag tag-award"> Best Immigration Paper · OECD Conference 2023</span>
 </div>
@@ -62,6 +54,14 @@ This paper investigates how institutional wage-setting constraints, such as a na
 <p style="font-size:0.84em;margin-top:4px;">Coverage: <a href="https://uc3nomics.uc3m.es/the-missing-link-how-firms-are-key-to-understand-the-adjustments-to-immigration/">uc3nomics blog</a> · <a href="https://www.calameo.com/read/0074844316280932ce5e2">PSE Migration policy briefs</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
 This paper examines the short-run labor market effects of the mass arrival of Venezuelan migrants into Colombia using matched employer-employee data. After immigrants arrive, formal employment declines among minimum-wage natives, while those earning above the minimum face negative wage effects. Small, lower-paying firms drive these effects, consistent with a model in which they can hire workers informally. Using machine learning, I show that firm-level factors are important predictors of heterogeneity in worker-level impacts. These findings highlight how informality can amplify the role of firms in shaping immigration effects.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>4. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
+<p class="authors">with <a href="https://janstuhler.com/">Jan Stuhler</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
+We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity does not accurately capture lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
 </p></details>
 </div>
 
