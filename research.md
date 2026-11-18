@@ -27,7 +27,7 @@ layout: page
 
 <div class="paper">
 <strong>1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7621081">Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities</a></strong>
-<p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, &amp; <a href="https://samuelskoda.github.io/">Samuel Škoda</a></p>
+<p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a> &amp; <a href="https://samuelskoda.github.io/">Samuel Škoda</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
 Do firms adjust workplace amenities in response to demand shocks? We develop a monopsony framework in which firms jointly set wages and amenities and show that responses to demand shocks depend crucially on the structure of amenity provision costs. Using Norwegian data that combine matched employer-employee records, firms’ cost accounts, and non-pecuniary job attributes drawn from job postings, we exploit three distinct sources of firm-level demand shocks: abrupt changes in value added, public procurement contract wins, and export demand shifts. We document multi-margin adjustments in amenities alongside wages and employment, and discuss implications for the measurement of employer market power.
 </p></details>
