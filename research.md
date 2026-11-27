@@ -26,7 +26,16 @@ layout: page
 ## Working Papers
 
 <div class="paper">
-<strong>1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7621081">Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities</a></strong>
+<strong>1. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Management Delegation under Monopsony Power</a></strong>
+<p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
+<p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
+<details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
+Delegating the supervision of production workers to managers allows entrepreneurs to operate larger firms. We develop a general equilibrium model in which monopsony power distorts managerial employment, the managers’ span of control, and, thereby, firm size. We estimate and validate the model with Portuguese administrative data. Relative to the efficient economy, monopsony power leads more low-productivity firms to hire managers but reduces managerial employment by lowering wages. Since markdowns are wider over managers than over production workers, it also increases the span of control. Wage markdowns over managers alone account for one-quarter of the total output losses from monopsony power.
+</p></details>
+</div>
+
+<div class="paper">
+<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7621081">Perks Under Pressure? Demand Shocks and Firm Provision of Workplace Amenities</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a> &amp; <a href="https://samuelskoda.github.io/">Samuel Škoda</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
 Do firms adjust workplace amenities in response to demand shocks? We develop a monopsony framework in which firms jointly set wages and amenities and show that responses to demand shocks depend crucially on the structure of amenity provision costs. Using Norwegian data that combine matched employer-employee records, firms’ cost accounts, and non-pecuniary job attributes drawn from job postings, we exploit three distinct sources of firm-level demand shocks: abrupt changes in value added, public procurement contract wins, and export demand shifts. We document multi-margin adjustments in amenities alongside wages and employment, and discuss implications for the measurement of employer market power.
@@ -34,7 +43,7 @@ Do firms adjust workplace amenities in response to demand shocks? We develop a m
 </div>
 
 <div class="paper">
-<strong>2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
+<strong>3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5954516">Wage-Setting Constraints and Firm Responses to Demand Shocks</a></strong>
 <p class="authors">with <a href="https://sites.google.com/site/manudeepbhuller/home">Manudeep Bhuller</a>, <a href="https://santiagohermo.github.io/">Santiago Hermo</a> &amp; <a href="https://sites.google.com/view/linnealorentzen/home">Linnea Lorentzen</a></p>
 <div class="tags">
   <span class="tag tag-award"> Best Paper · CUFE Forum 2025</span>
@@ -46,7 +55,7 @@ This paper investigates how institutional wage-setting constraints, such as a na
 </div>
 
 <div class="paper">
-<strong>3. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
+<strong>4. <a href="https://ludelgad.github.io/files/IndFirms_Immigration_LADP.pdf">Worker Responses to Immigration Across Firms: Evidence from Colombia</a></strong>
 <div class="tags">
   <span class="tag tag-award"> Best Immigration Paper · OECD Conference 2023</span>
 </div>
@@ -58,19 +67,10 @@ This paper examines the short-run labor market effects of the mass arrival of Ve
 </div>
 
 <div class="paper">
-<strong>4. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
+<strong>5. <a href="https://janstuhler.com/wp-content/uploads/2026/06/estimators_continuous_treatments_june6_2026.pdf">Pitfalls of Common Estimators for Continuous Dynamic Treatments</a></strong>
 <p class="authors">with <a href="https://janstuhler.com/">Jan Stuhler</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: June 2026</summary><p>
 We examine commonly used estimators for continuous treatments that vary over time. The classical static panel regression that relates outcomes to current treatment intensity does not accurately capture lagged effects. The most commonly used dynamic difference-in-differences regression instead uses a time-constant measure of treatment to estimate period-specific coefficients, capturing dynamic effects more accurately. We show, however, when higher-exposed units accumulate their treatment earlier than less-exposed units -- a pattern we document for immigration and labor demand shocks -- the estimated coefficients become harder to interpret causally. A panel regression including leads and lags of the time-varying treatment provides an alternative that is robust to these concerns, although it requires sufficient time-series variation in the treatment. We characterize when each estimator fails to recover the treatment effects, propose diagnostic tests, and discuss additional complications arising from heterogeneous treatment effects.
-</p></details>
-</div>
-
-<div class="paper">
-<strong>5. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Monopsony Power and Firm Organization</a></strong>
-<p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
-<p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
-<details><summary>Abstract &nbsp;·&nbsp; Version: October 2025</summary><p>
-Labor market competition differs drastically for production workers and managers. We extend a general equilibrium oligopsony model with minimum wages to include firm organization: firms trade off hiring managers to expand their number of production workers against higher costs. Using matched employer-employee and balance sheet data of Portuguese firms, we quantify the model and validate it against quasi-experimental evidence on oligopsony and minimum wage effects. Relative to the efficient economy, monopsony power reduces employment, wages, and employment concentration, particularly for managers. Hence, welfare losses are 3.4 and 2.4 percent for managers and production workers, respectively. Managers bear greater losses because they sort into larger firms, view firms' non-wage attributes as less substitutable, and are less likely to be bound by the minimum wage. Moreover, monopsony over managers alone reduces production workers' earnings by one-fifth through production complementarities.
 </p></details>
 </div>
 
