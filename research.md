@@ -29,6 +29,7 @@ layout: page
 <strong>1. <a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org.pdf">Management Delegation under Monopsony Power</a></strong>
 <p class="authors">with <a href="https://ajanez.github.io/">Álvaro Jáñez</a></p>
 <p class="wp-label">WP: <a href="https://www.rfberlin.com/network-paper/monopsony-power-and-firm-organization/" class="tag tag-wp">RFBerlin</a></p>
+<p style="font-size:0.84em;margin-top:4px;"><a href="https://ajanez.github.io/files/working_papers/monopsony-power-and-firm-organization/JMP_Firm_Org_app.pdf">Supplemental Appendix</a></p>
 <details><summary>Abstract &nbsp;·&nbsp; Version: November 2026</summary><p>
 Delegating the supervision of production workers to managers allows entrepreneurs to operate larger firms. We develop a general equilibrium model in which monopsony power distorts managerial employment, the managers’ span of control, and, thereby, firm size. We estimate and validate the model with Portuguese administrative data. Relative to the efficient economy, monopsony power leads more low-productivity firms to hire managers but reduces managerial employment by lowering wages. Since markdowns are wider over managers than over production workers, it also increases the span of control. Wage markdowns over managers alone account for one-quarter of the total output losses from monopsony power.
 </p></details>
